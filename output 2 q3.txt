@@ -1,0 +1,938 @@
+pattern = The tyrant will always find a pretext for his tyranny.
+
+
+
+
+
+THE LIST OF DOCUMENTS BASED ON RANK
+Relevance score    RANK          TALE      
+Relevance score 83  1   The Vain Jackdaw 
+ 
+
+Relevance score 53  2   The Bear and the Fox 
+ 
+
+Relevance score 50  3   The Doe and the Lion 
+ 
+
+Relevance score 50  4   The Lion in Love 
+ 
+
+Relevance score 50  5   Truth and the Traveler 
+ 
+
+Relevance score 50  6   The Father and His Sons 
+ 
+
+Relevance score 48  7   The Hawk and the Nightingale 
+ 
+
+Relevance score 48  8   The Horse and Groom 
+ 
+
+Relevance score 48  9   The Boy Bathing 
+ 
+
+Relevance score 48  10   The Brother and the Sister 
+ 
+
+Relevance score 48  11   The Geese and the Cranes 
+ 
+
+Relevance score 48  12   The Lion and the Boar 
+ 
+
+Relevance score 46  13   The Mule 
+ 
+
+Relevance score 46  14   The Frogs Asking for a King 
+ 
+
+Relevance score 46  15   The Milk-Woman and Her Pail 
+ 
+
+Relevance score 44  16   The Father and His Two Daughters 
+ 
+
+Relevance score 44  17   The Eagle and His Captor 
+ 
+
+Relevance score 44  18   The Boys and the Frogs 
+ 
+
+Relevance score 44  19   The Ants and the Grasshopper 
+ 
+
+Relevance score 44  20   The Lamp 
+ 
+
+Relevance score 44  21   The Fowler and the Viper 
+ 
+
+Relevance score 44  22   The Cat and the Mice 
+ 
+
+Relevance score 44  23   The Swollen Fox 
+ 
+
+Relevance score 42  24   The Wolf and the Lamb 
+ 
+
+Relevance score 42  25   The Fox Who Had Lost His Tail 
+ 
+
+Relevance score 42  26   The Wolf and the Housedog 
+ 
+
+Relevance score 42  27   The Man and His Two Sweethearts 
+ 
+
+Relevance score 42  28   The Bowman and Lion 
+ 
+
+Relevance score 42  29   The Lion and the Hare 
+ 
+
+Relevance score 42  30   The Goatherd and the Wild Goats 
+ 
+
+Relevance score 42  31   The Mice and the Weasels 
+ 
+
+Relevance score 42  32   The Wolf, the Fox, and the Ape 
+ 
+
+Relevance score 40  33   Jupiter and the Monkey 
+ 
+
+Relevance score 40  34   The Bear and the Two Travelers 
+ 
+
+Relevance score 40  35   The Man and His Wife 
+ 
+
+Relevance score 40  36   The Bull and the Calf 
+ 
+
+Relevance score 40  37   The Dog and the Hare 
+ 
+
+Relevance score 40  38   The Widow and Her Little Maidens 
+ 
+
+Relevance score 40  39   The Ass in the Lion's Skin 
+ 
+
+Relevance score 40  40   The Man and the Lion 
+ 
+
+Relevance score 40  41   The Flies and the Honey-Pot 
+ 
+
+Relevance score 40  42   The Ass and the Frogs 
+ 
+
+Relevance score 40  43   The Oxen and the Axle-Trees 
+ 
+
+Relevance score 40  44   The Brazier and His Dog 
+ 
+
+Relevance score 40  45   The Hares and the Foxes 
+ 
+
+Relevance score 40  46   The Monkeys and Their Mother 
+ 
+
+Relevance score 40  47   The Kingdom of the Lion 
+ 
+
+Relevance score 40  48   The Wolf and the Lion 
+ 
+
+Relevance score 40  49   The Lamb and the Wolf 
+ 
+
+Relevance score 40  50   The Laborer and the Snake 
+ 
+
+Relevance score 40  51   Mercury and the Workmen 
+ 
+
+Relevance score 38  52   The Widow and the Sheep 
+ 
+
+Relevance score 38  53   The Gnat and the Bull 
+ 
+
+Relevance score 38  54   The Sick Stag 
+ 
+
+Relevance score 38  55   The Eagle and the Fox 
+ 
+
+Relevance score 38  56   The Vine and the Goat 
+ 
+
+Relevance score 38  57   The Stag in the Ox-Stall 
+ 
+
+Relevance score 38  58   The Farmer and the Fox 
+ 
+
+Relevance score 38  59   The Wolves and the Sheep 
+ 
+
+Relevance score 38  60   The Lion and the Eagle 
+ 
+
+Relevance score 38  61   The Flea and the Man 
+ 
+
+Relevance score 38  62   The Ass and His Masters 
+ 
+
+Relevance score 38  63   The Fox and the Hedgehog 
+ 
+
+Relevance score 38  64   The Partridge and the Fowler 
+ 
+
+Relevance score 38  65   The Fox and the Crane 
+ 
+
+Relevance score 38  66   The Town Mouse and the Country Mouse 
+ 
+
+Relevance score 38  67   The Hunter and the Horseman 
+ 
+
+Relevance score 37  68   The Apes and the Two Travelers 
+ 
+
+Relevance score 37  69   The Dogs and the Fox 
+ 
+
+Relevance score 37  70   The Man Bitten by a Dog 
+ 
+
+Relevance score 37  71   The Fox and the Lion 
+ 
+
+Relevance score 37  72   The One-Eyed Doe 
+ 
+
+Relevance score 37  73   The Two Frogs 
+ 
+
+Relevance score 37  74   The Cat and Venus 
+ 
+
+Relevance score 37  75   The Old Hound 
+ 
+
+Relevance score 37  76   The Crow and the Serpent 
+ 
+
+Relevance score 37  77   The Mouse and the Bull 
+ 
+
+Relevance score 37  78   The Dog and the Shadow 
+ 
+
+Relevance score 37  79   The Fox and the Monkey 
+ 
+
+Relevance score 37  80   The Three Tradesmen 
+ 
+
+Relevance score 37  81   The Mother and the Wolf 
+ 
+
+Relevance score 37  82   The Seaside Travelers 
+ 
+
+Relevance score 37  83   The Thieves and the Cock 
+ 
+
+Relevance score 37  84   The Wolf and the Fox 
+ 
+
+Relevance score 37  85   The Shepherd and the Sea 
+ 
+
+Relevance score 37  86   The Ant and the Dove 
+ 
+
+Relevance score 37  87   The Wasp and the Snake 
+ 
+
+Relevance score 37  88   The Thief and His Mother 
+ 
+
+Relevance score 37  89   The Trumpeter Taken Prisoner 
+ 
+
+Relevance score 37  90   The Boy Hunting Locusts 
+ 
+
+Relevance score 37  91   The Thief and the Housedog 
+ 
+
+Relevance score 37  92   The Two Frogs 
+ 
+
+Relevance score 37  93   The Philosopher, the Ants, and Mercury 
+ 
+
+Relevance score 37  94   The Man, the Horse, the Ox, and the Dog 
+ 
+
+Relevance score 37  95   The Bull and the Goat 
+ 
+
+Relevance score 37  96   The Cat and the Cock 
+ 
+
+Relevance score 37  97   The Oak and the Woodcutters 
+ 
+
+Relevance score 35  98   The Pomegranate, Apple-Tree, and Bramble 
+ 
+
+Relevance score 35  99   The Mouse, the Frog, and the Hawk 
+ 
+
+Relevance score 35  100   The Mountain in Labor 
+ 
+
+Relevance score 35  101   The Eagle, the Cat, and the Wild Sow 
+ 
+
+Relevance score 35  102   The Wolf and the Crane 
+ 
+
+Relevance score 35  103   The Flea and the Ox 
+ 
+
+Relevance score 35  104   The Raven and the Swan 
+ 
+
+Relevance score 35  105   The Shepherd and the Sheep 
+ 
+
+Relevance score 35  106   The Gnat and the Lion 
+ 
+
+Relevance score 35  107   The Fox and the Lion 
+ 
+
+Relevance score 35  108   The Lion in a Farmyard 
+ 
+
+Relevance score 35  109   The Master and His Dogs 
+ 
+
+Relevance score 35  110   The Seller of Images 
+ 
+
+Relevance score 35  111   The Old Woman and the Physician 
+ 
+
+Relevance score 35  112   The Ass and the Charger 
+ 
+
+Relevance score 35  113   The Traveler and His Dog 
+ 
+
+Relevance score 35  114   The Hare and the Tortoise 
+ 
+
+Relevance score 35  115   The Heifer and the Ox 
+ 
+
+Relevance score 35  116   The Image of Mercury and the Carpenter 
+ 
+
+Relevance score 35  117   The Ass and the Old Shepherd 
+ 
+
+Relevance score 35  118   The Sick Lion 
+ 
+
+Relevance score 35  119   The Old Woman and the Wine-Jar 
+ 
+
+Relevance score 35  120   The Hares and the Lions 
+ 
+
+Relevance score 35  121   The Olive-Tree and the Fig-Tree 
+ 
+
+Relevance score 35  122   The Prophet 
+ 
+
+Relevance score 35  123   The Bitch and Her Whelps 
+ 
+
+Relevance score 35  124   The Aethiop 
+ 
+
+Relevance score 35  125   The Monkey and the Fishermen 
+ 
+
+Relevance score 35  126   The Wolf and the Lion 
+ 
+
+Relevance score 35  127   The Birds, the Beasts, and the Bat 
+ 
+
+Relevance score 35  128   The Lion and the Shepherd 
+ 
+
+Relevance score 33  129   Jupiter, Neptune, Minerva, and Momus 
+ 
+
+Relevance score 33  130   The Herdsman and the Lost Bull 
+ 
+
+Relevance score 33  131   The Fighting Cocks and the Eagle 
+ 
+
+Relevance score 33  132   The Gamecocks and the Partridge 
+ 
+
+Relevance score 33  133   The Charger and the Miller 
+ 
+
+Relevance score 33  134   The Jackdaw and the Doves 
+ 
+
+Relevance score 33  135   The Lion, Jupiter, and the Elephant 
+ 
+
+Relevance score 33  136   The Jackdaw and the Fox 
+ 
+
+Relevance score 33  137   The Thirsty Pigeon 
+ 
+
+Relevance score 33  138   The Boy and the Nettles 
+ 
+
+Relevance score 33  139   The Lion and the Mouse 
+ 
+
+Relevance score 33  140   The Bald Knight 
+ 
+
+Relevance score 33  141   The Shepherd and the Wolf 
+ 
+
+Relevance score 33  142   The Stag at the Pool 
+ 
+
+Relevance score 33  143   The Wolf in Sheep's Clothing 
+ 
+
+Relevance score 33  144   The Lioness 
+ 
+
+Relevance score 33  145   The Goat and the Ass 
+ 
+
+Relevance score 33  146   The Hare and the Hound 
+ 
+
+Relevance score 33  147   Mercury and the Sculptor 
+ 
+
+Relevance score 33  148   The Fly and the Draught-Mule 
+ 
+
+Relevance score 33  149   The Lion and the Bull 
+ 
+
+Relevance score 33  150   The Crab and Its Mother 
+ 
+
+Relevance score 33  151   The Piglet, the Sheep, and the Goat 
+ 
+
+Relevance score 33  152   The Salt Merchant and His Ass 
+ 
+
+Relevance score 33  153   The Ass, the Fox, and the Lion 
+ 
+
+Relevance score 33  154   The Two Dogs 
+ 
+
+Relevance score 33  155   The Two Travelers and the Axe 
+ 
+
+Relevance score 33  156   The Swan and the Goose 
+ 
+
+Relevance score 33  157   The Two Men Who Were Enemies 
+ 
+
+Relevance score 33  158   The Trees and the Axe 
+ 
+
+Relevance score 31  159   The Lion and the Three Bulls 
+ 
+
+Relevance score 31  160   The Miser 
+ 
+
+Relevance score 31  161   The Tortoise and the Eagle  
+
+
+Relevance score 31  162   The Lark and Her Young Ones 
+ 
+
+Relevance score 31  163   The Lark Burying Her Father 
+ 
+
+Relevance score 31  164   The Crow and the Sheep 
+ 
+
+Relevance score 31  165   The Ass and His Shadow 
+ 
+
+Relevance score 31  166   The Weasel and the Mice 
+ 
+
+Relevance score 31  167   The Grasshopper and the Owl 
+ 
+
+Relevance score 31  168   The Hen and the Swallow 
+ 
+
+Relevance score 31  169   The Goat and the Goatherd 
+ 
+
+Relevance score 31  170   The Cock and the Jewel 
+ 
+
+Relevance score 31  171   The Ox and the Frog 
+ 
+
+Relevance score 31  172   The Fir-Tree and the Bramble 
+ 
+
+Relevance score 31  173   The Lion and the Dolphin 
+ 
+
+Relevance score 31  174   The Peasant and the Eagle 
+ 
+
+Relevance score 31  175   The Shipwrecked Man and the Sea 
+ 
+
+Relevance score 31  176   The Two Soldiers and the Robber 
+ 
+
+Relevance score 31  177   Hercules and the Wagoner 
+ 
+
+Relevance score 31  178   The Wasps, the Partridges, and the Farmer 
+ 
+
+Relevance score 31  179   The Fox and the Crow 
+ 
+
+Relevance score 31  180   The Peacock and Juno 
+ 
+
+Relevance score 31  181   The Mules and the Robbers 
+ 
+
+Relevance score 31  182   The Cat and the Birds 
+ 
+
+Relevance score 31  183   The Kid and the Wolf 
+ 
+
+Relevance score 31  184   The Fox and the Monkey 
+ 
+
+Relevance score 31  185   The Dog and the Oyster 
+ 
+
+Relevance score 31  186   The Wolf and the Sheep 
+ 
+
+Relevance score 31  187   The Horse and the Ass 
+ 
+
+Relevance score 31  188   The Dolphins, the Whales, and the Sprat 
+ 
+
+Relevance score 31  189   The Ass and the Lapdog 
+ 
+
+Relevance score 31  190   The Peasant and the Apple-Tree 
+ 
+
+Relevance score 29  191   The Eagle and the Jackdaw 
+ 
+
+Relevance score 29  192   The Fox and the Leopard 
+ 
+
+Relevance score 29  193   The Goods and the Ills 
+ 
+
+Relevance score 29  194   The Shepherd's Boy and the Wolf 
+ 
+
+Relevance score 29  195   The Astronomer 
+ 
+
+Relevance score 29  196   The Kid and the Wolf 
+ 
+
+Relevance score 29  197   The Fishermen 
+ 
+
+Relevance score 29  198   The Cobbler Turned Doctor 
+ 
+
+Relevance score 29  199   The Wild Boar and the Fox 
+ 
+
+Relevance score 29  200   The Dogs and the Hides 
+ 
+
+Relevance score 29  201   The Farmer and the Cranes 
+ 
+
+Relevance score 29  202   The Monkey and the Camel 
+ 
+
+Relevance score 29  203   The Mischievous Dog 
+ 
+
+Relevance score 29  204   The Spendthrift and the Swallow 
+ 
+
+Relevance score 29  205   The Charcoal-Burner and the Fuller 
+ 
+
+Relevance score 29  206   The Woman and Her Hen 
+ 
+
+Relevance score 29  207   The Serpent and the Eagle 
+ 
+
+Relevance score 27  208   The Old Lion 
+ 
+
+Relevance score 27  209   The Frogs' Complaint Against the Sun 
+ 
+
+Relevance score 27  210   The Ass and the Wolf 
+ 
+
+Relevance score 27  211   The Seagull and the Kite 
+ 
+
+Relevance score 27  212   The Blind Man and the Whelp 
+ 
+
+Relevance score 27  213   The Wild Ass and the Lion 
+ 
+
+Relevance score 27  214   The Mole and His Mother 
+ 
+
+Relevance score 27  215   The Man and the Satyr 
+ 
+
+Relevance score 27  216   The Dog, the Cock, and the Fox 
+ 
+
+Relevance score 27  217   The Fisherman Piping 
+ 
+
+Relevance score 27  218   The Dove and the Crow 
+ 
+
+Relevance score 27  219   The Wolves and the Sheepdogs 
+ 
+
+Relevance score 27  220   The Wolf and the Shepherds 
+ 
+
+Relevance score 27  221   The Oak and the Reeds 
+ 
+
+Relevance score 27  222   The Crow and Mercury 
+ 
+
+Relevance score 27  223   The Ass and the Mule 
+ 
+
+Relevance score 27  224   The Bat and the Weasels 
+ 
+
+Relevance score 27  225   The Fisherman and His Nets 
+ 
+
+Relevance score 27  226   The Fox and the Goat 
+ 
+
+Relevance score 27  227   The Ass Carrying the Image 
+ 
+
+Relevance score 27  228   The Peacock and the Crane 
+ 
+
+Relevance score 27  229   The Farmer and His Sons 
+ 
+
+Relevance score 27  230   The Ass and the Grasshopper 
+ 
+
+Relevance score 27  231   The Rivers and the Sea 
+ 
+
+Relevance score 27  232   The Thief and the Innkeeper 
+ 
+
+Relevance score 25  233   The Miller, His Son, and Their Ass 
+ 
+
+Relevance score 25  234   The Fox and the Mask 
+ 
+
+Relevance score 25  235   The Lion, the Mouse, and the Fox 
+ 
+
+Relevance score 25  236   The Lion, the Wolf, and the Fox 
+ 
+
+Relevance score 25  237   The Crab and the Fox 
+ 
+
+Relevance score 25  238   The Viper and the File 
+ 
+
+Relevance score 25  239   The Quack Frog 
+ 
+
+Relevance score 25  240   The Fisherman and the Little Fish 
+ 
+
+Relevance score 25  241   The Horse and His Rider 
+ 
+
+Relevance score 25  242   The Playful Ass 
+ 
+
+Relevance score 25  243   The Oxen and the Butchers 
+ 
+
+Relevance score 25  244   The Swallow and the Crow 
+ 
+
+Relevance score 25  245   The Oaks and Jupiter 
+ 
+
+Relevance score 25  246   The Dancing Monkeys 
+ 
+
+Relevance score 25  247   The Two Bags 
+ 
+
+Relevance score 25  248   The Hart and the Vine 
+ 
+
+Relevance score 25  249   The Birdcatcher, the Partridge, and the Cock 
+ 
+
+Relevance score 24  250   The Flea and the Wrestler 
+ 
+
+Relevance score 24  251   The Rose and the Amaranth 
+ 
+
+Relevance score 24  252   The Dog in the Manger 
+ 
+
+Relevance score 24  253   The Shepherd and the Dog 
+ 
+
+Relevance score 24  254   The Hawk, the Kite, and the Pigeons 
+ 
+
+Relevance score 24  255   The Panther and the Shepherds 
+ 
+
+Relevance score 24  256   The North Wind and the Sun 
+ 
+
+Relevance score 24  257   The Eagle and the Arrow 
+ 
+
+Relevance score 24  258   The Boy and the Filberts 
+ 
+
+Relevance score 24  259   The Hen and the Golden Eggs 
+ 
+
+Relevance score 24  260   The Buffoon and the Countryman 
+ 
+
+Relevance score 24  261   The Stag, the Wolf, and the Sheep 
+ 
+
+Relevance score 22  262   The King's Son and the Painted Lion 
+ 
+
+Relevance score 22  263   The Fox and the Bramble 
+ 
+
+Relevance score 22  264   The Dog's House 
+ 
+
+Relevance score 22  265   The Fawn and His Mother 
+ 
+
+Relevance score 22  266   The Camel and the Arab 
+ 
+
+Relevance score 22  267   The Walnut-Tree 
+ 
+
+Relevance score 22  268   The Travelers and the Plane-Tree 
+ 
+
+Relevance score 20  269   The Two Pots 
+ 
+
+Relevance score 20  270   The Bee and Jupiter 
+ 
+
+Relevance score 20  271   The Old Man and Death 
+ 
+
+Relevance score 20  272   The Wolf and the Horse 
+ 
+
+Relevance score 20  273   The Crow and the Raven 
+ 
+
+Relevance score 20  274   The Eagle and the Kite 
+ 
+
+Relevance score 20  275   The Ass and His Driver 
+ 
+
+Relevance score 20  276   The Ass and the Horse 
+ 
+
+Relevance score 20  277   The Wolf and the Goat 
+ 
+
+Relevance score 18  278   The Wolf and the Shepherd 
+ 
+
+Relevance score 18  279   The Mice in Council 
+ 
+
+Relevance score 18  280   The Belly and the Members 
+ 
+
+Relevance score 18  281   The Sparrow and the Hare 
+ 
+
+Relevance score 18  282   The Huntsman and the Fisherman 
+ 
+
+Relevance score 18  283   The Traveler and Fortune 
+ 
+
+Relevance score 18  284   The Lion, the Fox, and the Ass 
+ 
+
+Relevance score 18  285   The Dog and the Cook 
+ 
+
+Relevance score 18  286   The Boasting Traveler 
+ 
+
+Relevance score 18  287   The Farmer and the Stork 
+ 
+
+Relevance score 18  288   The Kites and the Swans 
+ 
+
+Relevance score 18  289   The Hares and the Frogs 
+ 
+
+Relevance score 16  290   The Crow and the Pitcher 
+ 
+
+Relevance score 16  291   The Farmer and the Snake 
+ 
+
+Relevance score 16  292   The Monkey and the Dolphin 
+ 
+
+Relevance score 16  293   The Rich Man and the Tanner 
+ 
+
+Relevance score 16  294   The Camel and Jupiter 
+ 
+
+Relevance score 16  295   The Camel 
+ 
+
+Relevance score 16  296   The Ass, the Cock, and the Lion 
+ 
+
+Relevance score 14  297   The Trees Under the Protection of the Gods 
+ 
+
+Relevance score 14  298   The Horse and the Stag 
+ 
+
+Relevance score 14  299   The Sick Kite 
+ 
+
+Relevance score 14  300   The Owl and the Birds 
+ 
+
+Relevance score 14  301   The She-Goats and Their Beards 
+ 
+
+Relevance score 14  302   The Bald Man and the Fly 
+ 
+
+Relevance score 14  303   The Fox and the Grapes 
+ 
+
+Relevance score 14  304   The Ass and His Purchaser 
+ 
+
+Relevance score 14  305   The Hunter and the Woodman 
+ 
+
+Relevance score 14  306   The Lion, the Bear, and the Fox 
+ 
+
+Relevance score 12  307   The Thrush and the Fowler 
+ 
+
+Relevance score 11  308   The Fox and the Woodcutter 
+ 
+
+Relevance score 11  309   The Lion and the Fox 
+ 
+
+Relevance score 11  310   The Manslayer 
+ 
+

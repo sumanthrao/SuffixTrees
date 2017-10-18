@@ -1,0 +1,4686 @@
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 600 TALE NAME-The Vain Jackdaw 
+ 
+
+
+The context is - 
+"  Upon which the Wolf seized him and ate him up, saying,
+"Well
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-Jupiter, Neptune, Minerva, and Momus 
+ 
+
+
+The context is - 
+ BAT who fell upon the ground and was caught by a Weasel pleaded
+to be spared his life
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 49 TALE NAME-The Fox and the Woodcutter 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 312 TALE NAME-Evil tendencies are shown in early life.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 491 TALE NAME-The Miller, His Son, and Their Ass 
+ 
+
+
+The context is - 
+  The Mouse, recognizing his roar, came gnawed the rope
+with his teeth, and set him free, exclaim
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 196 TALE NAME-The Old Lion 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 406 TALE NAME-The King's Son and the Painted Lion 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 81 TALE NAME-The Herdsman and the Lost Bull 
+ 
+
+
+The context is - 
+  When he failed to heal their disputes by his
+exhortations, he determined to give them a practical illustration
+of the evils of disunion; and for this purpose he one day told
+them to bring him a bundle of sticks
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 281 TALE NAME-The Widow and the Sheep 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 311 TALE NAME-The Fighting Cocks and the Eagle 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 309 TALE NAME-The Lion and the Three Bulls 
+ 
+
+
+The context is - 
+  During his reign he made a royal
+proclamation for a general assembly of all the birds and beasts,
+and drew up conditions for a universal league, in which the Wolf
+and the Lamb, the Panther and the Kid, the Tiger and the Stag,
+the Dog and the Hare, should live together in perfect peace and
+amity
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 206 TALE NAME-Pride goes before destruction.  
+ 
+
+
+The context is - 
+ 
+When the Crane had extracted the bone and demanded the promised
+payment, the Wolf, grinning and grinding his teeth, exclaimed:
+"Why, you have surely already had a sufficient recompense, in
+having been permitted to draw out your head in safety from the
+mouth and jaws of a wolf
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 93 TALE NAME-The Bear and the Fox 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 385 TALE NAME-The Gamecocks and the Partridge 
+ 
+
+
+The context is - 
+ 
+When he saw them leaping about in the net upon the rock he said:
+"O you most perverse creatures, when I piped you would not dance,
+but now that I have ceased you do so merrily
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 495 TALE NAME-The Fox and the Bramble 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 202 TALE NAME-Counsel without help is useless.  
+ 
+
+
+The context is - 
+  The Ants inquired of
+him, "Why did you not treasure up food during the summer
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 116 TALE NAME-The Fox and the Mask 
+ 
+
+
+The context is - 
+  He asked him sharply:  "Why do you stand
+there gaping
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 58 TALE NAME-The Gnat and the Bull 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 425 TALE NAME-The Pomegranate, Apple-Tree, and Bramble 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 214 TALE NAME-The Miser 
+ 
+
+
+The context is - 
+"  In the desire to prove to him
+his mistake, his Mother placed before him a few grains of
+frankincense, and asked, "What is it
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 740 TALE NAME-The Dog's House 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 688 TALE NAME-The Frogs' Complaint Against the Sun 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 77 TALE NAME-The Tortoise and the Eagle  
+
+
+
+The context is - 
+  When their strife was at its height, a Bramble from
+the neighboring hedge lifted up its voice, and said in a boastful
+tone:  "Pray, my dear friends, in my presence at least cease from
+such vain disputings
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 113 TALE NAME-Harm hatch, harm catch.  
+ 
+
+
+The context is - 
+  With them he
+trapped a Stork that had fractured his leg in the net and was
+earnestly beseeching the Farmer to spare his life
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Wolf and the Lamb 
+ 
+
+
+The context is - 
+NE WINTER a Farmer found a Snake stiff and frozen with cold
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-The Sick Stag 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 10 TALE NAME-The Flea and the Wrestler 
+ 
+
+
+The context is - 
+ YOUNG FAWN once said to his Mother, "You are larger than a dog,
+and swifter, and more used to running, and you have your horns as
+a defense; why, then, O Mother
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 45 TALE NAME-Every tale is not to be believed.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 306 TALE NAME-The Apes and the Two Travelers 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 10 TALE NAME-The Dogs and the Fox 
+ 
+
+
+The context is - 
+HE SWALLOW and the Crow had a contention about their plumage
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 144 TALE NAME-The Lion, the Mouse, and the Fox 
+ 
+
+
+The context is - 
+  While they were assembled in anxious expectation
+of some terrible calamity, out came a Mouse
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 581 TALE NAME-If words suffice not, blows must follow.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 710 TALE NAME-The Fawn and His Mother 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 55 TALE NAME-The Crow and the Pitcher 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 425 TALE NAME-The Ass and the Wolf 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 539 TALE NAME-Notoriety is often mistaken for fame.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 601 TALE NAME-The Seagull and the Kite 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 129 TALE NAME-The Lion, the Wolf, and the Fox 
+ 
+
+
+The context is - 
+ 
+"What a selfish Dog
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 869 TALE NAME-The Charger and the Miller 
+ 
+
+
+The context is - 
+  When the Goat upbraided
+him for breaking his promise, he turned around and cried out,
+"You foolish old fellow
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Mule 
+ 
+
+
+The context is - 
+WO MEN were traveling together, when a Bear suddenly met them on
+their path
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 8 TALE NAME-The Wolf and the Shepherd 
+ 
+
+
+The context is - 
+ HEAVY WAGON was being dragged along a country lane by a team of
+Oxen
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 338 TALE NAME-The Eagle and the Jackdaw 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 428 TALE NAME-Look before you leap.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 274 TALE NAME-The Man Bitten by a Dog 
+ 
+
+
+The context is - 
+ 
+The Goat replied, "Why, you silly fellow, the horn will speak
+though I be silent
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 50 TALE NAME-The more honor the more danger.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 795 TALE NAME-The Fox and the Lion 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 779 TALE NAME-The Lark and Her Young Ones 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 54 TALE NAME-The Hawk and the Nightingale 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 265 TALE NAME-The Eagle and the Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1225 TALE NAME-The Rose and the Amaranth 
+ 
+
+
+The context is - 
+ Why could I not have been contented to
+labor with my companions, and not wish to be idle all the day
+like that useless little Lapdog
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 371 TALE NAME-The Dog in the Manger 
+ 
+
+
+The context is - 
+'  The Lioness laughed at them, and said:
+"Why
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 45 TALE NAME-The Crab and the Fox 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 598 TALE NAME-Necessity is the mother of invention.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 438 TALE NAME-The Lark Burying Her Father 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 448 TALE NAME-The Trees Under the Protection of the Gods 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 435 TALE NAME-Jupiter and the Monkey 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 526 TALE NAME-Birds of a feather flock together.   
+
+
+
+The context is - 
+ 
+But when the toothless, clawless Lion returned to repeat his
+request, the Woodman, no longer afraid, set upon him with his
+club, and drove him away into the forest
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 697 TALE NAME-The Fox Who Had Lost His Tail 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 75 TALE NAME-The Two Pots 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 434 TALE NAME-The Crow and the Sheep 
+ 
+
+
+The context is - 
+  But the shepherd, returning to the fold during the night
+to obtain meat for the next day, mistakenly caught up the Wolf
+instead of a sheep, and killed him instantly
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 934 TALE NAME-The One-Eyed Doe 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 697 TALE NAME-Acquaintance softens prejudices.  
+ 
+
+
+The context is - 
+  When the Frogs discovered his easy good nature, they sent
+yet a third time to Jupiter to beg him to choose for them still
+another King
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 263 TALE NAME-The Mouse, the Frog, and the Hawk 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 299 TALE NAME-The Mice in Council 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 333 TALE NAME-The Blind Man and the Whelp 
+ 
+
+
+The context is - 
+  When he came again to the stream, the Ass fell down
+on purpose in the same spot, and, regaining his feet with the
+weight of his load much diminished, brayed triumphantly as if he
+had obtained what he desired
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 616 TALE NAME-The Vine and the Goat 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 52 TALE NAME-The Ass and His Shadow 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 412 TALE NAME-The Two Frogs 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 489 TALE NAME-The Bear and the Two Travelers 
+ 
+
+
+The context is - 
+  When the
+appointed day arrived, and the birds had assembled before
+Jupiter, the Jackdaw also made his appearance in his many
+feathered finery
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 478 TALE NAME-Whatever you do, do with all your might.  
+ 
+
+
+The context is - 
+  When the thaw set in, he
+led them all out to feed, and the Wild Goats scampered away as
+fast as they could to the mountains
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 60 TALE NAME-The Cat and Venus 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 357 TALE NAME-The Viper and the File 
+ 
+
+
+The context is - 
+  One day an old hound said to him:  Why do you make
+such an exhibition of yourself
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 642 TALE NAME-The Wild Ass and the Lion 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 309 TALE NAME-Try before you trust.  
+
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 561 TALE NAME-Fair weather friends are not worth much.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 49 TALE NAME-The Old Hound 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 192 TALE NAME-Change of habit cannot alter Nature.  
+ 
+
+
+The context is - 
+  While he lamented and bewailed his sores and bruises, and
+cried loudly for help, a neighbor ran to the well, and learning
+what had happened said:  "Hark ye, old fellow, why, in striving to
+pry into what is in heaven, do you not manage to see what is on
+earth
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wol
+Pattern occurs at following tale
+
+
+INDEX VALUE- 446 TALE NAME-The Wolf and the Housedog 
+ 
+
+
+The context is - 
+"  The Sheep, poor silly
+creatures, were easily beguiled and dismissed the Dogs, whereupon
+the Wolves destroyed the unguarded flock at their own pleasure
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 552 TALE NAME-The Fox and the Leopard 
+ 
+
+
+The context is - 
+  The Old Woman,
+when she recovered her sight and saw none of her goods in her
+house, would give him nothing
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Mole and His Mother 
+ 
+
+
+The context is - 
+WO GAME COCKS were fiercely fighting for the mastery of the
+farmyard
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 598 TALE NAME-The Stag in the Ox-Stall 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 629 TALE NAME-The Crow and the Serpent 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 345 TALE NAME-The Farmer and the Snake 
+ 
+
+
+The context is - 
+  War was again proclaimed, however,
+and when the trumpet summoned him to his standard, the Soldier
+put on his charger its military trappings, and mounted, being
+clad in his heavy coat of mail
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 63 TALE NAME-Zeal should not outrun discretion.  
+ 
+
+
+The context is - 
+HE MEMBERS of the Body rebelled against the Belly, and said,
+"Why should we be perpetually engaged in administering to your
+wants, while you do nothing but take your rest, and enjoy
+yourself in luxury and self-indulgence
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 168 TALE NAME-The Weasel and the Mice 
+ 
+
+
+The context is - 
+  The Vine addressed him and said:  "Why do you thus injure
+me without a cause, and crop my leaves
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 583 TALE NAME-The Father and His Two Daughters 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 6 TALE NAME-The Farmer and the Fox 
+ 
+
+
+The context is - 
+ WIDOW who was fond of cleaning had two little maidens to wait
+on her
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 358 TALE NAME-The Man and the Satyr 
+ 
+
+
+The context is - 
+ 
+The Shepherd-boy, now really alarmed, shouted in an agony of
+terror:  "Pray, do come and help me; the Wolf is killing the
+sheep"; but no one paid any heed to his cries, nor rendered any
+assistance
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 60 TALE NAME-The Grasshopper and the Owl 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 361 TALE NAME-The Mountain in Labor 
+ 
+
+
+The context is - 
+  They replied, "We are all very well, and
+shall continue so, if you will only be good enough to go away,
+and leave us as we are
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 64 TALE NAME-The Hen and the Swallow 
+ 
+
+
+The context is - 
+ KID standing on the roof of a house, out of harm's way, saw a
+Wolf passing by and immediately began to taunt and revile him
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 68 TALE NAME-The Mouse and the Bull 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 594 TALE NAME-The Monkey and the Dolphin 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 37 TALE NAME-The Jackdaw and the Doves 
+ 
+
+
+The context is - 
+ SHEPHERD once found the whelp of a Wolf and brought it up, and
+after a while taught it to steal lambs from the neighboring
+flocks
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 774 TALE NAME-The Man and His Wife 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 459 TALE NAME-Attempt not impossibilities.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 25 TALE NAME-The Man and His Two Sweethearts 
+ 
+
+
+The context is - 
+ CRAB said to her son, "Why do you walk so one-sided, my child
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 488 TALE NAME-The Eagle, the Cat, and the Wild Sow 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 50 TALE NAME-The Goat and the Goatherd 
+ 
+
+
+The context is - 
+he Swallow, the Serpent, and the Court of Justice
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 336 TALE NAME-The Wolf and the Crane 
+ 
+
+
+The context is - 
+  The Swallow, finding her nest empty, lamented greatly
+and exclaimed:  "Woe to me a stranger
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 912 TALE NAME-The Flea and the Ox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 442 TALE NAME-The Dog, the Cock, and the Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 333 TALE NAME-The Raven and the Swan 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 46 TALE NAME-The Bull and the Calf 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 937 TALE NAME-The Lion, Jupiter, and the Elephant 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 340 TALE NAME-The Cock and the Jewel 
+ 
+
+
+The context is - 
+"  The Man who had been bitten laughed at this
+advice and said, "Why
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 78 TALE NAME-Count the cost before you commit yourselves.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 300 TALE NAME-The Belly and the Members 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-Self-help is the best help.  
+ 
+
+
+The context is - 
+ WOLF, sorely wounded and bitten by dogs, lay sick and maimed in
+his lair
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 46 TALE NAME-The Dog and the Hare 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 333 TALE NAME-The Shepherd and the Dog 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-The Sparrow and the Hare 
+ 
+
+
+The context is - 
+What's bred in the bone will stick to the flesh
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 309 TALE NAME-The Shepherd and the Sheep 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 624 TALE NAME-The Jackdaw and the Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 7 TALE NAME-The Fisherman Piping 
+ 
+
+
+The context is - 
+N OLD WOMAN found an empty jar which had lately been full of
+prime old wine and which still retained the fragrant smell of its
+former contents
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Ox and the Frog 
+ 
+
+
+The context is - 
+ CROW having stolen a bit of meat, perched in a tree and held it
+in her beak
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 111 TALE NAME-The Dog and the Shadow 
+ 
+
+
+The context is - 
+  When he returned home
+after a good day's sport, he always gave the Housedog a large
+share of his spoil
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 62 TALE NAME-The Gnat and the Lion 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 845 TALE NAME-The Hawk, the Kite, and the Pigeons 
+ 
+
+
+The context is - 
+  One of them again
+answered him:  "We indeed wish you well, but the danger is not
+over
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 113 TALE NAME-The Bowman and Lion 
+ 
+
+
+The context is - 
+  When they had
+admitted him into the cote, they found that he made more havoc
+and slew a larger number of them in one day than the Kite could
+pounce upon in a whole year
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 46 TALE NAME-The Fox and the Lion 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 290 TALE NAME-The Fox and the Monkey 
+ 
+
+
+The context is - 
+ What weight can my blood add to the
+wool
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 49 TALE NAME-The Fir-Tree and the Bramble 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Huntsman and the Fisherman 
+ 
+
+
+The context is - 
+ WILD ASS and a Lion entered into an alliance so that they might
+capture the beasts of the forest with greater ease
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 454 TALE NAME-The Horse and Groom 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 325 TALE NAME-The Dove and the Crow 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-Stoop to conquer.  
+ 
+
+
+The context is - 
+We must make friends in prosperity if we would have their help in
+adversity
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 796 TALE NAME-The Traveler and Fortune 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 264 TALE NAME-The Goods and the Ills 
+ 
+
+
+The context is - 
+  When they stopped suddenly to catch their breath for a
+fiercer renewal of the fight, they saw some Vultures waiting in
+the distance to feast on the one that should fall first
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 670 TALE NAME-The Three Tradesmen 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 558 TALE NAME-The Thrush and the Fowler 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 525 TALE NAME-The Shepherd's Boy and the Wolf 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Bee and Jupiter 
+ 
+
+
+The context is - 
+HE WEASELS and the Mice waged a perpetual war with each other,
+in which much blood was shed
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 495 TALE NAME-The Wolves and the Sheepdogs 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 228 TALE NAME-Self-interest alone moves some men.  
+ 
+
+
+The context is - 
+  Then said the Wolf:  "May no friend of
+mine ever be in such a plight; for the weight of this chain is
+enough to spoil the appetite
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 60 TALE NAME-The Widow and Her Little Maidens 
+ 
+
+
+The context is - 
+HE RIVERS joined together to complain to the Sea, saying, "Why
+is it that when we flow into your tides so potable and sweet, you
+work in us such a change, and make us salty and unfit to drink
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 214 TALE NAME-The Lion and the Dolphin 
+ 
+
+
+The context is - 
+  The Ass said, "Why, I saw the Monkey do this very thing
+yesterday, and you all laughed heartily, as if it afforded you
+very great amusement
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 496 TALE NAME-The Lion in a Farmyard 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 412 TALE NAME-The Boy Bathing 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 65 TALE NAME-The Old Man and Death 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-Every man for himself.  
+ 
+
+
+The context is - 
+ WOLF, passing by, saw some Shepherds in a hut eating a haunch
+of mutton for their dinner
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 258 TALE NAME-The Doe and the Lion 
+ 
+
+
+The context is - 
+  One of the Dolphins replied, "We
+would far rather be destroyed in our battle with each other than
+admit any interference from you in our affairs
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 512 TALE NAME-The Quack Frog 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 66 TALE NAME-The Lion and the Fox 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Peasant and the Eagle 
+ 
+
+
+The context is - 
+WO MEN were journeying together
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 50 TALE NAME-The Fisherman and the Little Fish 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 266 TALE NAME-Those who suffer most cry out the least.  
+ 
+
+
+The context is - 
+  When the Ass saw that the huge beast could be
+assailed with impunity, he let drive at his forehead with his
+heels
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 577 TALE NAME-The Lion and the Hare 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 681 TALE NAME-The Mother and the Wolf 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 47 TALE NAME-The Seaside Travelers 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 764 TALE NAME-The Camel and the Arab 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 509 TALE NAME-The Thieves and the Cock 
+ 
+
+
+The context is - 
+  When
+however it reached the beach, they discovered that it was only a
+large faggot of sticks, and one of them said to his companions,
+"We have waited for no purpose, for after all there is nothing to
+see but a load of wood
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 52 TALE NAME-The Shipwrecked Man and the Sea 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 434 TALE NAME-The Wolves and the Sheep 
+ 
+
+
+The context is - 
+ While I am
+hammering on the anvil, you sleep on the mat; and when I begin to
+eat after my toil, you wake up and wag your tail for food
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 656 TALE NAME-The Two Soldiers and the Robber 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 59 TALE NAME-The Master and His Dogs 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 910 TALE NAME-The Eagle and His Captor 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 412 TALE NAME-The Wolf and the Shepherds 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 621 TALE NAME-Hercules and the Wagoner 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 420 TALE NAME-The Wolf and the Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Thirsty Pigeon 
+ 
+
+
+The context is - 
+ WILD BOAR stood under a tree and rubbed his tusks against the
+trunk
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 78 TALE NAME-The Wasps, the Partridges, and the Farmer 
+ 
+
+
+The context is - 
+  When the Lion found that he could not escape, he
+flew upon the sheep and killed them, and then attacked the oxen
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 527 TALE NAME-The Boy and the Nettles 
+ 
+
+
+The context is - 
+"  The
+Sculptor replied, "Well, if you will buy these, I'll fling you
+that into the bargain
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 136 TALE NAME-The Lion, the Fox, and the Ass 
+ 
+
+
+The context is - 
+  When the time came for killing the Goose, the cook went to
+get him at night, when it was dark, and he was not able to
+distinguish one bird from the other
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 134 TALE NAME-The Panther and the Shepherds 
+ 
+
+
+The context is - 
+  When he finished, he was so full that he was not able to
+get out, and began to groan and lament his fate
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 48 TALE NAME-The Oak and the Reeds 
+ 
+
+
+The context is - 
+ FOX, running before the hounds, came across a Woodcutter
+felling an oak and begged him to show him a safe hiding-place
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 266 TALE NAME-The Lion and the Eagle 
+ 
+
+
+The context is - 
+  The bird entreated earnestly for his
+life:  "What would you do without me when next you spread your
+nets
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 449 TALE NAME-Nature exceeds nurture.  
+ 
+
+
+The context is - 
+  With his last breath he said to himself, "I am rightly
+served; for what business had I who had never handled a net to
+try and catch fish
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 117 TALE NAME-Use serves to overcome dread.  
+ 
+
+
+The context is - 
+  When the
+Flea a second time hopped upon his foot, he groaned and said, "O
+Hercules
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Dog and the Cook 
+ 
+
+
+The context is - 
+WO FROGS dwelt in the same pool
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 48 TALE NAME-The Astronomer 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 554 TALE NAME-Example is more powerful than precept.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 504 TALE NAME-The memory of a good deed lives.  
+ 
+
+
+The context is - 
+  The
+Lion and the Bear saw him, but not being able to get up, said,
+"Woe be to us, that we should have fought and belabored ourselves
+only to serve the turn of a Fox
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 79 TALE NAME-The Horse and the Stag 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 208 TALE NAME-Self-help is the best help.   
+
+
+
+The context is - 
+  "Woe is me," exclaimed the Doe, "who have escaped
+from man, only to throw myself into the mouth of a wild beast
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 66 TALE NAME-The Seller of Images 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 407 TALE NAME-The Lion and the Mouse 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 239 TALE NAME-The Old Woman and the Physician 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 53 TALE NAME-The Manslayer 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 726 TALE NAME-The Boys and the Frogs 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 574 TALE NAME-The Bald Knight 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 471 TALE NAME-The Sick Kite 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 278 TALE NAME-The Ass and the Charger 
+ 
+
+
+The context is - 
+  When the Peasant rose in pursuit, the
+Eagle let the bundle fall again
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 420 TALE NAME-The Traveler and His Dog 
+ 
+
+
+The context is - 
+ 
+When its head was knocked off, out came a stream of gold, which
+the Carpenter quickly picked up and said, "Well, I think thou art
+altogether contradictory and unreasonable; for when I paid you
+honor, I reaped no benefits:  but now that I maltreat you I am
+loaded with an abundance of riches
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 392 TALE NAME-The Owl and the Birds 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 71 TALE NAME-The Frogs Asking for a King 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 707 TALE NAME-The Shepherd and the Wolf 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 278 TALE NAME-The Shepherd and the Sea 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 387 TALE NAME-The Ant and the Dove 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-Might makes right.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 52 TALE NAME-Straws show how the wind blows.  
+ 
+
+
+The context is - 
+HE OAKS presented a complaint to Jupiter, saying, "We bear for
+no purpose the burden of life, as of all the trees that grow we
+are the most continually in peril of the axe
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 294 TALE NAME-The North Wind and the Sun 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 519 TALE NAME-The Wasp and the Snake 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 48 TALE NAME-The Ass in the Lion's Skin 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 228 TALE NAME-The Hare and the Tortoise 
+ 
+
+
+The context is - 
+  He pulled up his horse, and with
+great glee joined in the joke by saying, "What a marvel it is
+that hairs which are not mine should fly from me, when they have
+forsaken even the man on whose head they grew
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 217 TALE NAME-The Heifer and the Ox 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 334 TALE NAME-The Image of Mercury and the Carpenter 
+ 
+
+
+The context is - 
+  Know that not even the stars need to
+be relit"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 633 TALE NAME-The Brother and the Sister 
+ 
+
+
+The context is - 
+  The Lion said,
+"Who has taught you, my very excellent fellow, the art of
+division
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 59 TALE NAME-The Flea and the Man 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 31 TALE NAME-The Fox and the Crow 
+ 
+
+
+The context is - 
+he Bull, the Lioness, and the Wild-Boar Hunter$
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 339 TALE NAME-Pleasure bought with pains, hurts.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Thief and His Mother 
+ 
+
+
+The context is - 
+HE WOODCUTTER cut down a Mountain Oak and split it in pieces,
+making wedges of its own branches for dividing the trunk
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 61 TALE NAME-The She-Goats and Their Beards 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 424 TALE NAME-The Ants and the Grasshopper 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 269 TALE NAME-The Stag at the Pool 
+ 
+
+
+The context is - 
+  Some Frogs frequenting the pool heard his lamentation,
+and said, "What would you do if you had to live here always as we
+do, when you make such a fuss about a mere fall into the water
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 82 TALE NAME-It is easy to kick a man that is down.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Wolf and the Horse 
+ 
+
+
+The context is - 
+ CROW was jealous of the Raven, because he was considered a bird
+of good omen and always attracted the attention of men, who noted
+by his flight the good or evil course of future events
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 92 TALE NAME-The Wolf in Sheep's Clothing 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 558 TALE NAME-Harm seek.  harm find.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 328 TALE NAME-The Bald Man and the Fly 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 52 TALE NAME-The Trumpeter Taken Prisoner 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Eagle and the Arrow 
+ 
+
+
+The context is - 
+ WOMAN possessed a Hen that gave her an egg every day
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 213 TALE NAME-The Fox and the Grapes 
+ 
+
+
+The context is - 
+  He appealed to the Ass to
+fly with him, lest they should both be captured, but the animal
+lazily replied, "Why should I, pray
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 82 TALE NAME-The Peacock and Juno 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 236 TALE NAME-The Geese and the Cranes 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 79 TALE NAME-The Ass and the Old Shepherd 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wol
+Pattern occurs at following tale
+
+
+INDEX VALUE- 648 TALE NAME-The Man and the Lion 
+ 
+
+
+The context is - 
+"  The Dogs
+listened favorably to these proposals, and, entering the den of
+the Wolves, they were set upon and torn to pieces
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 93 TALE NAME-The Kid and the Wolf 
+ 
+
+
+The context is - 
+  They replied, "We would willingly have helped you, if
+we had not known who you were, and with whom you were fighting
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 18 TALE NAME-Abstain and enjoy.  
+ 
+
+
+The context is - 
+ VERY SKILLFUL BOWMAN went to the mountains in search of game,
+but all the beasts of the forest fled at his approach
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 55 TALE NAME-The Mules and the Robbers 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-The Rich Man and the Tanner 
+ 
+
+
+The context is - 
+WHEN MAN first saw the Camel, he was so frightened at his vast
+size that he ran away
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Lioness 
+ 
+
+
+The context is - 
+ WASP seated himself upon the head of a Snake and, striking him
+unceasingly with his stings, wounded him to death
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 397 TALE NAME-The Horse and His Rider 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 72 TALE NAME-The Crow and Mercury 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 299 TALE NAME-The Cat and the Birds 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 172 TALE NAME-The hero is brave in deeds as well as words.  
+ 
+
+
+The context is - 
+  The Sheep, fearing some fraud
+was intended, excused herself, saying, "The Wolf is accustomed to
+seize what he wants and to run off; and you, too, can quickly
+outstrip me in your rapid flight
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 418 TALE NAME-The Fishermen 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 724 TALE NAME-The Cobbler Turned Doctor 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 916 TALE NAME-A false tale often betrays itself.  
+ 
+
+
+The context is - 
+  When night came she went forth with silent
+foot and obtained food for herself and her kittens, but feigning
+to be afraid, she kept a lookout all through the day
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 133 TALE NAME-The Flies and the Honey-Pot 
+ 
+
+
+The context is - 
+  When he had waited some days in vain, he saw the
+Innkeeper dressed in a new and handsome coat and sitting before
+his door
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 407 TALE NAME-The Boasting Traveler 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 504 TALE NAME-The Ass and the Mule 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 520 TALE NAME-The Playful Ass 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Bat and the Weasels 
+ 
+
+
+The context is - 
+ CROW perishing with thirst saw a pitcher, and hoping to find
+water, flew to it with delight
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Ass and His Masters 
+ 
+
+
+The context is - 
+WO FROGS were neighbors
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 48 TALE NAME-The Crow and the Raven 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 36 TALE NAME-The Ass and His Purchaser 
+ 
+
+
+The context is - 
+T ONE TIME a very large and strong Wolf was born among the
+wolves, who exceeded all his fellow-wolves in strength, size, and
+swiftness, so that they unanimously decided to call him "Lion
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Sick Lion 
+ 
+
+
+The context is - 
+ WALNUT TREE standing by the roadside bore an abundant crop of
+fruit
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 809 TALE NAME-The Fisherman and His Nets 
+ 
+
+
+The context is - 
+ 
+He greatly lamented his fate, saying, "Woe is me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 465 TALE NAME-The Eagle and the Kite 
+ 
+
+
+The context is - 
+  When the Dolphin arrived with his burden in sight of
+land not far from Athens, he asked the Monkey if he were an
+Athenian
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 8 TALE NAME-The Goat and the Ass 
+ 
+
+
+The context is - 
+ JACKDAW, seeing some Doves in a cote abundantly provided with
+food, painted himself white and joined them in order to share
+their plentiful maintenance
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 561 TALE NAME-The Kid and the Wolf 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 280 TALE NAME-The Ass and His Driver 
+ 
+
+
+The context is - 
+"  The Wolf complied, and while he was piping
+and the Kid was dancing, some hounds hearing the sound ran up and
+began chasing the Wolf
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Ass and the Frogs 
+ 
+
+
+The context is - 
+ WIZARD, sitting in the marketplace, was telling the fortunes of
+the passers-by when a person ran up in great haste, and
+announced to him that the doors of his house had been broken open
+and that all his goods were being stolen
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 438 TALE NAME-The Camel and Jupiter 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 502 TALE NAME-The Boy Hunting Locusts 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1144 TALE NAME-The Walnut-Tree 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Farmer and the Stork 
+ 
+
+
+The context is - 
+WO MEN, one who always spoke the truth and the other who told
+nothing but lies, were traveling together and by chance came to
+the land of Apes
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 226 TALE NAME-The Kites and the Swans 
+ 
+
+
+The context is - 
+  But when the Wolf, day after day, kept
+in the company of the sheep and did not make the slightest effort
+to seize them, the Shepherd began to look upon him as a guardian
+of his flock rather than as a plotter of evil against it; and
+when occasion called him one day into the city, he left the sheep
+entirely in his charge
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 184 TALE NAME-Do not attempt too much at once.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1065 TALE NAME-The Old Woman and the Wine-Jar 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-The Camel 
+ 
+
+
+The context is - 
+WHEN A FOX who had never yet seen a Lion, fell in with him by
+chance for the first time in the forest, he was so frightened
+that he nearly died with fear
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Oxen and the Butchers 
+ 
+
+
+The context is - 
+ WEASEL, inactive from age and infirmities, was not able to
+catch mice as he once did
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 292 TALE NAME-The Wild Boar and the Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 33 TALE NAME-The Thief and the Housedog 
+ 
+
+
+The context is - 
+N ASS feeding in a meadow saw a Wolf approaching to seize him,
+and immediately pretended to be lame
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 71 TALE NAME-The Fox and the Monkey 
+ 
+
+
+The context is - 
+  When no one appeared willing to buy it, in order to
+attract purchasers, he cried out that he had the statue to sell
+of a benefactor who bestowed wealth and helped to heap up riches
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 305 TALE NAME-The Hares and the Lions 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 12 TALE NAME-Fine feathers don't make fine birds.  
+ 
+
+
+The context is - 
+ MAN had a Wife who made herself hated by all the members of his
+household
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 746 TALE NAME-The Hunter and the Woodman 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 542 TALE NAME-The Swallow and the Crow 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 707 TALE NAME-The Dogs and the Hides 
+ 
+
+
+The context is - 
+"
+When the Fox approached the tree, the Dog sprang out and caught
+him, and tore him to pieces
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Dog and the Oyster 
+ 
+
+
+The context is - 
+ WOLF saw a Goat feeding at the summit of a steep precipice,
+where he had no chance of reaching her
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 954 TALE NAME-The Ass, the Cock, and the Lion 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 558 TALE NAME-Misfortune tests the sincerity of friends.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1543 TALE NAME-The Fox and the Goat 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 217 TALE NAME-The Two Frogs 
+ 
+
+
+The context is - 
+ 
+When each had fully stated his case the Ape announced this
+sentence:  "I do not think you, Wolf, ever lost what you claim;
+and I do believe you, Fox, to have stolen what you so stoutly
+deny
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-The Ass Carrying the Image 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 98 TALE NAME-The Hare and the Hound 
+ 
+
+
+The context is - 
+ Why do you not go faster
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 155 TALE NAME-The Lion in Love 
+ 
+
+
+The context is - 
+  When they had dragged the nets to the
+shore they found but few fish:  the nets were full of sand and
+stones, and the men were beyond measure cast downso much at the
+disappointment which had befallen them, but because they had
+formed such very different expectations
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 328 TALE NAME-The Goatherd and the Wild Goats 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 424 TALE NAME-Two blacks do not make one white.  
+ 
+
+
+The context is - 
+  The Viper, turning about, stung him, and
+falling into a swoon, the man said to himself, "Woe is me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 434 TALE NAME-Union is strength.  
+ 
+
+
+The context is - 
+  The
+Ass, seeing him drawing a dungcart, thus derided him:  "Where, O
+boaster, are now all thy gay trappings, thou who are thyself
+reduced to the condition you so lately treated with contempt
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 174 TALE NAME-The Travelers and the Plane-Tree 
+ 
+
+
+The context is - 
+  He placed his paws on it and said, "What a beautiful
+head
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 255 TALE NAME-The Olive-Tree and the Fig-Tree 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 112 TALE NAME-Mercury and the Sculptor 
+ 
+
+
+The context is - 
+  The whelp of a Wolf was brought
+him, with a request that he would feel it, and say what it was
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 207 TALE NAME-The Fly and the Draught-Mule 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 290 TALE NAME-The Lion and the Bull 
+ 
+
+
+The context is - 
+  When the Cobbler happened to fall sick
+himself of a serious illness, the Governor of the town determined
+to test his skill
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Boy and the Filberts 
+ 
+
+
+The context is - 
+ WOLF coming out of a field of oats met a Horse and thus
+addressed him:  "I would advise you to go into that field
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 81 TALE NAME-The Fox and the Hedgehog 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 125 TALE NAME-The Oaks and Jupiter 
+ 
+
+
+The context is - 
+  While
+they were playing one day as children, they happened by chance to
+look together into a mirror that was placed on their mother's
+chair
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Partridge and the Fowler 
+ 
+
+
+The context is - 
+HE WASPS and the Partridges, overcome with thirst, came to a
+Farmer and besought him to give them some water to drink
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Lamp 
+ 
+
+
+The context is - 
+ CROW caught in a snare prayed to Apollo to release him, making
+a vow to offer some frankincense at his shrine
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 10 TALE NAME-One story is good, till another is told.  
+ 
+
+
+The context is - 
+HE NORTH WIND and the Sun disputed as to which was the most
+powerful, and agreed that he should be declared the victor who
+could first strip a wayfaring man of his clothes
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Crab and Its Mother 
+ 
+
+
+The context is - 
+WO MEN, deadly enemies to each other, were sailing in the same
+vessel
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 171 TALE NAME-The Prophet 
+ 
+
+
+The context is - 
+  When the Partridge was
+put into the poultry-yard, they struck at it and followed it
+about, so that the Partridge became grievously troubled and
+supposed that he was thus evilly treated because he was a
+stranger
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 317 TALE NAME-Evil companions bring more hurt than profit.  
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 106 TALE NAME-The Philosopher, the Ants, and Mercury 
+ 
+
+
+The context is - 
+  The Wolf therefore,
+thinking that he had a capital opportunity, accused the Fox to
+the Lion of not paying any respect to him who had the rule over
+them all and of not coming to visit him
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 7 TALE NAME-The Dancing Monkeys 
+ 
+
+
+The context is - 
+N THE WINTERTIME, a Dog curled up in as small a space as
+possible on account of the cold, determined to make himself a
+house
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 42 TALE NAME-The Man, the Horse, the Ox, and the Dog 
+ 
+
+
+The context is - 
+OAMING BY the mountainside at sundown, a Wolf saw his own shadow
+become greatly extended and magnified, and he said to himself,
+"Why should I, being of such an immense size and extending nearly
+an acre in length, be afraid of the Lion
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 187 TALE NAME-The Fox and the Crane 
+ 
+
+
+The context is - 
+  When
+peace was proclaimed, his deceitful conduct was apparent to both
+combatants
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 358 TALE NAME-The Oxen and the Axle-Trees 
+ 
+
+
+The context is - 
+  When he found the
+unfortunate Swallow lifeless on the ground, he said, "Unhappy
+bird
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 184 TALE NAME-Truth and the Traveler 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Brazier and His Dog 
+ 
+
+
+The context is - 
+N OWL, in her wisdom, counseled the Birds that when the acorn
+first began to sprout, to pull it all up out of the ground and
+not allow it to grow
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 447 TALE NAME-The Hen and the Golden Eggs 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 356 TALE NAME-The Fowler and the Viper 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 117 TALE NAME-The Peacock and the Crane 
+ 
+
+
+The context is - 
+  A Sparrow upbraided her and said, "Where now
+is thy remarkable swiftness of foot
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 399 TALE NAME-Like will draw like.   
+
+
+
+The context is - 
+"  "Woe's me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 987 TALE NAME-Don't make much ado about nothing.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 297 TALE NAME-Necessity knows no law.  
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 697 TALE NAME-The Bull and the Goat 
+ 
+
+
+The context is - 
+ 
+The Workman claimed it and expressed his joy at its recovery
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 822 TALE NAME-The Farmer and His Sons 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 592 TALE NAME-The Hares and the Foxes 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1055 TALE NAME-Some men underrate their best blessings.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 627 TALE NAME-The Piglet, the Sheep, and the Goat 
+ 
+
+
+The context is - 
+  While
+hovering near an altar, on which some villagers were sacrificing
+a goat, she suddenly seized a piece of the flesh, and carried it,
+along with a burning cinder, to her nest
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 472 TALE NAME-The Farmer and the Cranes 
+ 
+
+
+The context is - 
+  When the Satyr again inquired the reason,
+he said that he did it to cool the meat, which was too hot
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 579 TALE NAME-The Bitch and Her Whelps 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 312 TALE NAME-The Monkeys and Their Mother 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wo
+Pattern occurs at following tale
+
+
+INDEX VALUE- 642 TALE NAME-Equals make the best friends.  
+ 
+
+
+The context is - 
+  When too late, he thus reproached
+himself:  "Woe is me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-The Salt Merchant and His Ass 
+ 
+
+
+The context is - 
+What is most truly valuable is often underrated
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 22 TALE NAME-The Aethiop 
+ 
+
+
+The context is - 
+ HALF-FAMISHED JACKDAW seated himself on a fig-tree, which had
+produced some fruit entirely out of season, and waited in the
+hope that the figs would ripen
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 385 TALE NAME-False confidence often leads into danger.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 269 TALE NAME-The Ass and the Grasshopper 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 87 TALE NAME-The Cat and the Mice 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 271 TALE NAME-The Town Mouse and the Country Mouse 
+ 
+
+
+The context is - 
+  But at last the Bitch, protected by
+the bodyguard of her Whelps, who had now grown up and were able
+to defend themselves, asserted her exclusive right to the place
+and would not permit the shepherd to approach
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 235 TALE NAME-The Father and His Sons 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 247 TALE NAME-The Ass and the Horse 
+ 
+
+
+The context is - 
+  When
+the Shepherd came down and saw what was done, he said, "O you
+most ungrateful creatures
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Hares and the Frogs 
+ 
+
+
+The context is - 
+N OWL, accustomed to feed at night and to sleep during the day,
+was greatly disturbed by the noise of a Grasshopper and earnestly
+besought her to stop chirping
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 505 TALE NAME-The Ass, the Fox, and the Lion 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 477 TALE NAME-The Monkey and the Fishermen 
+ 
+
+
+The context is - 
+  When he reached the hollow of the
+tree, he found a hive full of honey
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Two Dogs 
+ 
+
+
+The context is - 
+WO SOLDIERS traveling together were set upon by a Robber
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 623 TALE NAME-The Cat and the Cock 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 532 TALE NAME-The Wolf and the Lion 
+ 
+
+
+The context is - 
+  When he reached
+his den, Mistress Wolf inquired of him why he returned wearied
+and supperless, so contrary to his wont
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 446 TALE NAME-The Buffoon and the Countryman 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 2 TALE NAME-The Monkey and the Camel 
+ 
+
+
+The context is - 
+ WAYFARING MAN, traveling in the desert, met a woman standing
+alone and terribly dejected
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 432 TALE NAME-The Wolf and the Sheep 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 521 TALE NAME-The Mischievous Dog 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 323 TALE NAME-The Milk-Woman and Her Pail 
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 283 TALE NAME-A man is known by the company he keeps.  
+ 
+
+
+The context is - 
+'
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 870 TALE NAME-The Horse and the Ass 
+ 
+
+
+The context is - 
+  When that
+was done and nothing was found, they cheered the actor, and
+loaded him with the loudest applause
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Wolf and the Goat 
+ 
+
+
+The context is - 
+ CROW in great want of food saw a Serpent asleep in a sunny
+nook, and flying down, greedily seized him
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 536 TALE NAME-The Mice and the Weasels 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 323 TALE NAME-Persuasion is better than Force.  
+ 
+
+
+The context is - 
+  When the young Prince saw this, his grief at being thus
+confined burst out afresh, and, standing near the lion, he said:
+"O you most detestable of animals
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 0 TALE NAME-The Hunter and the Horseman 
+ 
+
+
+The context is - 
+We had better bear our troubles bravely than try to escape them
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 257 TALE NAME-The Two Bags 
+ 
+
+
+The context is - 
+ 
+While the two were reclining in their chamber, Venus wishing to
+discover if the Cat in her change of shape had also altered her
+habits of life, let down a mouse in the middle of the room
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 316 TALE NAME-The Dolphins, the Whales, and the Sprat 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 100 TALE NAME-The Ass and the Lapdog 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 182 TALE NAME-The Spendthrift and the Swallow 
+ 
+
+
+The context is - 
+  The
+poor beast replied, not without a touch of reason:  "Why do you
+ask me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 549 TALE NAME-The Two Travelers and the Axe 
+ 
+
+
+The context is - 
+  What respect is shown to
+old age in these days
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 17 TALE NAME-The Wolf, the Fox, and the Ape 
+ 
+
+
+The context is - 
+ TROUBLESOME CROW seated herself on the back of a Sheep
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 443 TALE NAME-The Stag, the Wolf, and the Sheep 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 179 TALE NAME-The Rivers and the Sea 
+ 
+
+
+The context is - 
+  Standing at a safe distance, the Wolf exclaimed,
+"You have unrighteously taken that which was mine from me
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 311 TALE NAME-The Swollen Fox 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 81 TALE NAME-It is absurd to ape our betters.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 577 TALE NAME-The Charcoal-Burner and the Fuller 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 4 TALE NAME-The Woman and Her Hen 
+ 
+
+
+The context is - 
+ FOWLER caught a Partridge and was about to kill it
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 69 TALE NAME-The Kingdom of the Lion 
+ 
+
+
+The context is - 
+ MAN, very much annoyed with a Flea, caught him at last, and
+said, "Who are you who dare to feed on my limbs, and to cost me
+so much trouble in catching you
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 440 TALE NAME-The Swan and the Goose 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 67 TALE NAME-The Hart and the Vine 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 553 TALE NAME-The Birds, the Beasts, and the Bat 
+ 
+
+
+The context is - 
+"  While he
+was congratulating himself and wagging his tail to convey his
+pleasure to his friend, the Cook saw him moving about among his
+dishes and, seizing him by his fore and hind paws, bundled him
+without ceremony out of the window
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Two Men Who Were Enemies 
+ 
+
+
+The context is - 
+WO TRAVELERS, worn out by the heat of the summer's sun, laid
+themselves down at noon under the widespreading branches of a
+Plane-Tree
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 683 TALE NAME-The Lion and the Shepherd 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1179 TALE NAME-Slow but steady wins the race.  
+ 
+
+
+The context is - 
+"  The Lion said, "Well, since so huge a beast is
+afraid of a tiny gnat, I will no more complain, nor wish myself
+dead
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - Wolf
+Pattern occurs at following tale
+
+
+INDEX VALUE- 71 TALE NAME-The Thief and the Innkeeper 
+ 
+
+
+The context is - 
+ 
+The Wolf called out to him and said, "The Priest will slay you in
+sacrifice, if he should catch you
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 384 TALE NAME-Little liberties are great offenses.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 6 TALE NAME-The Wolf and the Lion 
+ 
+
+
+The context is - 
+ SHIPWRECKED MAN, having been cast upon a certain shore, slept
+after his buffetings with the deep
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1 TALE NAME-The Trees and the Axe 
+ 
+
+
+The context is - 
+WO MULES well-laden with packs were trudging along
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 369 TALE NAME-The Lamb and the Wolf 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 842 TALE NAME-The Laborer and the Snake 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 378 TALE NAME-Youth's first duty is reverence to parents.  
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1012 TALE NAME-Mercury and the Workmen 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 444 TALE NAME-The Lion and the Boar 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 545 TALE NAME-The Peasant and the Apple-Tree 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 543 TALE NAME-The Birdcatcher, the Partridge, and the Cock 
+ 
+
+
+The context is - 
+"
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 446 TALE NAME-The Oak and the Woodcutters 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 369 TALE NAME-The Lion, the Bear, and the Fox 
+ 
+
+
+The context is - 
+'  "Well, I have often
+caught and carried away an ostrich in my talons
+
+Finding first occurance of longest prefix of Wolf
+THE LONGEST PREFIX FOUND IS - W
+Pattern occurs at following tale
+
+
+INDEX VALUE- 222 TALE NAME-The Serpent and the Eagle 
+ 
+
+
+The context is - 
+  When the Ass persisted in his
+effort, the man let him go and said, "Conquer, but conquer to
+your cost

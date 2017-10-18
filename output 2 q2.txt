@@ -1,0 +1,3387 @@
+pattern - sight
+
+
+
+
+
+
+
+Pattern occurs at following tale
+
+
+INDEX VALUE- 52 TALE NAME-The Farmer and the Snake 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 380 TALE NAME-The Weasel and the Mice 
+ 
+
+
+The context is - 
+"
+"'Tis not the Mouse I fear," said the Lion; "I resent his
+familiarity and ill-breeding
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 375 TALE NAME-The Father and His Two Daughters 
+ 
+
+
+The context is - 
+  The Jackdaw, knowing
+his own ugliness, searched through the woods and fields, and
+collected the feathers which had fallen from the wings of his
+companions, and stuck them in all parts of his body, hoping
+thereby to make himself the most beautiful of all
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 564 TALE NAME-The Farmer and the Fox 
+ 
+
+
+The context is - 
+  When the thaw set in, he
+led them all out to feed, and the Wild Goats scampered away as
+fast as they could to the mountains
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 10 TALE NAME-The Man and the Satyr 
+ 
+
+
+The context is - 
+ld friends cannot with impunity be sacrificed for new ones
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 551 TALE NAME-The Grasshopper and the Owl 
+ 
+
+
+The context is - 
+ That bell that you carry is not,
+believe me, any order of merit, but on the contrary a mark of
+disgrace, a public notice to all men to avoid you as an ill
+mannered dog
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 628 TALE NAME-The Mountain in Labor 
+ 
+
+
+The context is - 
+  One of them interrupting him said, "If you had
+not yourself lost your tail, my friend, you would not thus
+counsel us
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 259 TALE NAME-The Hen and the Swallow 
+ 
+
+
+The context is - 
+  "The
+next time you touch a Nettle, grasp it boldly, and it will be
+soft as silk to your hand, and not in the least hurt you
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 260 TALE NAME-The Mouse and the Bull 
+ 
+
+
+The context is - 
+  The elder woman, ashamed to be courted
+by a man younger than herself, made a point, whenever her admirer
+visited her, to pull out some portion of his black hairs
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 22 TALE NAME-The Monkey and the Dolphin 
+ 
+
+
+The context is - 
+hose who seek to please everybody please nobody
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 231 TALE NAME-The Jackdaw and the Doves 
+ 
+
+
+The context is - 
+  While he lamented and bewailed his sores and bruises, and
+cried loudly for help, a neighbor ran to the well, and learning
+what had happened said:  "Hark ye, old fellow, why, in striving to
+pry into what is in heaven, do you not manage to see what is on
+earth
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 370 TALE NAME-The Man and His Wife 
+ 
+
+
+The context is - 
+"  The Sheep, poor silly
+creatures, were easily beguiled and dismissed the Dogs, whereupon
+the Wolves destroyed the unguarded flock at their own pleasure
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 582 TALE NAME-The Man and His Two Sweethearts 
+ 
+
+
+The context is - 
+  The Old Woman,
+when she recovered her sight and saw none of her goods in her
+house, would give him nothing
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 241 TALE NAME-The Eagle, the Cat, and the Wild Sow 
+ 
+
+
+The context is - 
+  The vanquished
+Cock skulked away and hid himself in a quiet corner, while the
+conqueror, flying up to a high wall, flapped his wings and crowed
+exultingly with all his might
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 574 TALE NAME-The Goat and the Goatherd 
+ 
+
+
+The context is - 
+"  "Forbear," said the Miller to him, "harping on what was
+of yore, for it is the common lot of mortals to sustain the ups
+and downs of fortune
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 477 TALE NAME-The Wolf and the Crane 
+ 
+
+
+The context is - 
+  The Monkey approached carelessly and was caught in the
+trap; and on his accusing the Fox of purposely leading him into
+the snare, she replied, "O Monkey, and are you, with such a mind
+as yours, going to be King over the Beasts
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 633 TALE NAME-The Flea and the Ox 
+ 
+
+
+The context is - 
+  The Horse fell down straightway
+under the weight, no longer equal to the burden, and said to his
+master, "You must now go to the war on foot, for you have
+transformed me from a Horse into an Ass; and how can you expect
+that I can again turn in a moment from an Ass to a Horse
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 283 TALE NAME-The Dog, the Cock, and the Fox 
+ 
+
+
+The context is - 
+'  The Members carried out
+their resolve and refused their assistance to the Belly
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 80 TALE NAME-The Raven and the Swan 
+ 
+
+
+The context is - 
+  A Goat, passing by, nibbled its young tendrils and its
+leaves
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 468 TALE NAME-The Bull and the Calf 
+ 
+
+
+The context is - 
+  She resolutely said, "I know not whether Jupiter
+will allot the prize to my son, but this I do know, that he is at
+least in the eyes of me his mother, the dearest, handsomest, and
+most beautiful of all
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 182 TALE NAME-The Lion, Jupiter, and the Elephant 
+ 
+
+
+The context is - 
+  The maidens, aggravated by such excessive
+labor, resolved to kill the cock who roused their mistress so
+early
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 444 TALE NAME-The Cock and the Jewel 
+ 
+
+
+The context is - 
+ 
+The Shepherd-boy, now really alarmed, shouted in an agony of
+terror:  "Pray, do come and help me; the Wolf is killing the
+sheep"; but no one paid any heed to his cries, nor rendered any
+assistance
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 7 TALE NAME-The Belly and the Members 
+ 
+
+
+The context is - 
+here is no believing a liar, even when he speaks the truth
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 89 TALE NAME-The Dog and the Hare 
+ 
+
+
+The context is - 
+ CAT, hearing that the Birds in a certain aviary were ailing
+dressed himself up as a physician, and, taking his cane and a bag
+of instruments becoming his profession, went to call on them
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 72 TALE NAME-The Shepherd and the Dog 
+ 
+
+
+The context is - 
+ KID standing on the roof of a house, out of harm's way, saw a
+Wolf passing by and immediately began to taunt and revile him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 61 TALE NAME-The Sparrow and the Hare 
+ 
+
+
+The context is - 
+ime and place often give the advantage to the weak over the
+strong
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 120 TALE NAME-The Shepherd and the Sheep 
+ 
+
+
+The context is - 
+  The Mother coming up, and missing
+one of her sons, inquired of his brothers what had become of him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 102 TALE NAME-The Jackdaw and the Fox 
+ 
+
+
+The context is - 
+ SHEPHERD once found the whelp of a Wolf and brought it up, and
+after a while taught it to steal lambs from the neighboring
+flocks
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 679 TALE NAME-The Fisherman Piping 
+ 
+
+
+The context is - 
+"  He said to her, "If your sister wishes for rain,
+and you for dry weather, with which of the two am I to join my
+wishes
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 167 TALE NAME-The Ox and the Frog 
+ 
+
+
+The context is - 
+  He called them to his bedside and said, "My sons,
+there is a great treasure hid in one of my vineyards
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 48 TALE NAME-The Dog and the Shadow 
+ 
+
+
+The context is - 
+ CRAB said to her son, "Why do you walk so one-sided, my child
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 318 TALE NAME-The Gnat and the Lion 
+ 
+
+
+The context is - 
+  Shortly afterwards, at the harvest festival,
+the owner released the Ox from his yoke, but bound the Heifer
+with cords and led him away to the altar to be slain in honor of
+the occasion
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 45 TALE NAME-The Hawk, the Kite, and the Pigeons 
+ 
+
+
+The context is - 
+he Swallow, the Serpent, and the Court of Justice$
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 400 TALE NAME-The Bowman and Lion 
+ 
+
+
+The context is - 
+ that in this place where
+all others' rights are protected, I alone should suffer wrong
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 444 TALE NAME-The Fox and the Lion 
+ 
+
+
+The context is - 
+  His
+Mother followed in the crowd and violently beat her breast in
+sorrow, whereupon the young man said, "I wish to say something to
+my Mother in her ear
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 180 TALE NAME-The Fox and the Monkey 
+ 
+
+
+The context is - 
+  He sat down by the wayside, and
+throwing down his load, besought "Death" to come
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 114 TALE NAME-The Fir-Tree and the Bramble 
+ 
+
+
+The context is - 
+ FIR-TREE said boastingly to the Bramble, "You are useful for
+nothing at all; while I am everywhere used for roofs and houses
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 39 TALE NAME-The Huntsman and the Fisherman 
+ 
+
+
+The context is - 
+etter poverty without care, than riches with
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 880 TALE NAME-The Horse and Groom 
+ 
+
+
+The context is - 
+  The
+Frog, being still fastened to the leg of the Mouse, was also
+carried off a prisoner, and was eaten by the Hawk
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 320 TALE NAME-The Dove and the Crow 
+ 
+
+
+The context is - 
+"  The Man who had been bitten laughed at this
+advice and said, "Why
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 7 TALE NAME-The Traveler and Fortune 
+ 
+
+
+The context is - 
+enefits bestowed upon the evil-disposed increase their means of
+injuring you
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 256 TALE NAME-The Goods and the Ills 
+ 
+
+
+The context is - 
+  The Earthen Pot said to the
+Brass Pot, "Pray keep at a distance and do not come near me, for
+if you touch me ever so slightly, I shall be broken in pieces,
+and besides, I by no means wish to come near you
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 47 TALE NAME-The Three Tradesmen 
+ 
+
+
+The context is - 
+ WOLF, sorely wounded and bitten by dogs, lay sick and maimed in
+his lair
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 28 TALE NAME-The Thrush and the Fowler 
+ 
+
+
+The context is - 
+ypocritical speeches are easily seen through
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 126 TALE NAME-The Shepherd's Boy and the Wolf 
+ 
+
+
+The context is - 
+HE PURCHASER of a black servant was persuaded that the color of
+his skin arose from dirt contracted through the neglect of his
+former masters
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 5 TALE NAME-The Bee and Jupiter 
+ 
+
+
+The context is - 
+hat's bred in the bone will stick to the flesh
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 26 TALE NAME-The Wolves and the Sheepdogs 
+ 
+
+
+The context is - 
+ FISHERMAN, engaged in his calling, made a very successful cast
+and captured a great haul of fish
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 358 TALE NAME-The Widow and Her Little Maidens 
+ 
+
+
+The context is - 
+ 
+Each was so well pleased with his bargain that they made for some
+time the same exchange day after day
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 126 TALE NAME-The Lion and the Dolphin 
+ 
+
+
+The context is - 
+N OLD WOMAN found an empty jar which had lately been full of
+prime old wine and which still retained the fragrant smell of its
+former contents
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 355 TALE NAME-The Lion in a Farmyard 
+ 
+
+
+The context is - 
+ Oh, if her voice were only equal to
+her beauty, she would deservedly be considered the Queen of
+Birds
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 43 TALE NAME-The Boy Bathing 
+ 
+
+
+The context is - 
+ MAN had two dogs:  a Hound, trained to assist him in his sports,
+and a Housedog, taught to watch the house
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 43 TALE NAME-The Old Man and Death 
+ 
+
+
+The context is - 
+hildren are not to be blamed for the faults of their parents
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 736 TALE NAME-The Doe and the Lion 
+ 
+
+
+The context is - 
+  The Stag, congratulating himself on his
+safety, began to express his sincere thanks to the Oxen who had
+kindly helped him in the hour of need
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 104 TALE NAME-The Quack Frog 
+ 
+
+
+The context is - 
+  He at once consented
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 21 TALE NAME-The Lion and the Fox 
+ 
+
+
+The context is - 
+void a remedy that is worse than the disease
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 451 TALE NAME-The Peasant and the Eagle 
+ 
+
+
+The context is - 
+ If you want my flesh, there is the butcher, who will kill
+me in an instant; but if you want my fleece and wool, there is
+the shearer, who will shear and not hurt me
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 18 TALE NAME-The Fisherman and the Little Fish 
+ 
+
+
+The context is - 
+he least outlay is not always the greatest gain
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 621 TALE NAME-The Lion and the Hare 
+ 
+
+
+The context is - 
+  "I will take the first share," he said,
+"because I am King:  and the second share, as a partner with you
+in the chase:  and the third share (believe me) will be a source
+of great evil to you, unless you willingly resign it to me, and
+set off as fast as you can
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 283 TALE NAME-The Mother and the Wolf 
+ 
+
+
+The context is - 
+  The Eagle gave one look at the arrow that had entered
+his heart and saw in that single glance that its feathers had
+been furnished by himself
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 8 TALE NAME-The Seaside Travelers 
+ 
+
+
+The context is - 
+ KITE, sick unto death, said to his mother:  "O Mother
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 71 TALE NAME-The Camel and the Arab 
+ 
+
+
+The context is - 
+e must make friends in prosperity if we would have their help in
+adversity
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 192 TALE NAME-The Thieves and the Cock 
+ 
+
+
+The context is - 
+ LION roaming by the seashore saw a Dolphin lift up its head out
+of the waves, and suggested that they contract an alliance,
+saying that of all the animals they ought to be the best friends,
+since the one was the king of beasts on the earth, and the other
+was the sovereign ruler of all the inhabitants of the ocean
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 490 TALE NAME-The Shipwrecked Man and the Sea 
+ 
+
+
+The context is - 
+  They at
+once made up their quarrel, saying, "It is better for us to make
+friends, than to become the food of Crows or Vultures
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 90 TALE NAME-The Wolves and the Sheep 
+ 
+
+
+The context is - 
+ DOE blind in one eye was accustomed to graze as near to the
+edge of the cliff as she possibly could, in the hope of securing
+her greater safety
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 282 TALE NAME-The Two Soldiers and the Robber 
+ 
+
+
+The context is - 
+  But a very great tempest came on, and the
+ship being in danger of sinking, he threw all his merchandise
+overboard, and barely escaped with his life in the empty ship
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 214 TALE NAME-The Master and His Dogs 
+ 
+
+
+The context is - 
+  He was about to
+spring upon the Ass, when the Cock (to the sound of whose voice
+the Lion, it is said, has a singular aversion) crowed loudly, and
+the Lion fled away as fast as he could
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 626 TALE NAME-The Eagle and His Captor 
+ 
+
+
+The context is - 
+  When all this was
+done, and the army disciplined, and the herald Mouse had duly
+proclaimed war by challenging the Weasels, the newly chosen
+generals bound their heads with straws, that they might be more
+conspicuous to all their troops
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 445 TALE NAME-The Wolf and the Shepherds 
+ 
+
+
+The context is - 
+  But
+when the Mice further debated who among them should thus "bell
+the Cat," there was no one found to do it
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 314 TALE NAME-Hercules and the Wagoner 
+ 
+
+
+The context is - 
+  Then said the Wolf:  "May no friend of
+mine ever be in such a plight; for the weight of this chain is
+enough to spoil the appetite
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 65 TALE NAME-The Wolf and the Fox 
+ 
+
+
+The context is - 
+HE RIVERS joined together to complain to the Sea, saying, "Why
+is it that when we flow into your tides so potable and sweet, you
+work in us such a change, and make us salty and unfit to drink
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 297 TALE NAME-The Thirsty Pigeon 
+ 
+
+
+The context is - 
+  The Ass said, "Why, I saw the Monkey do this very thing
+yesterday, and you all laughed heartily, as if it afforded you
+very great amusement
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 261 TALE NAME-The Wasps, the Partridges, and the Farmer 
+ 
+
+
+The context is - 
+  A Carpenter, with
+equal enthusiasm, proposed timber as a preferable method of
+defense
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 246 TALE NAME-The Boy and the Nettles 
+ 
+
+
+The context is - 
+  On seeing this, his Dogs took
+counsel together, and said, "It is time for us to be off, for if
+the master spare not his oxen, who work for his gain, how can we
+expect him to spare us
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 25 TALE NAME-The Lion, the Fox, and the Ass 
+ 
+
+
+The context is - 
+e is not to be trusted as a friend who mistreats his own family
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 11 TALE NAME-The Panther and the Shepherds 
+ 
+
+
+The context is - 
+ WOLF, passing by, saw some Shepherds in a hut eating a haunch
+of mutton for their dinner
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 214 TALE NAME-The Oak and the Reeds 
+ 
+
+
+The context is - 
+  When
+the battle was at its height, a Sprat lifted its head out of the
+waves and said that he would reconcile their differences if they
+would accept him as an umpire
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 380 TALE NAME-The Lion and the Eagle 
+ 
+
+
+The context is - 
+  The driver, seeing him thus stop, laid his
+whip lustily about his shoulders and said, "O you perverse
+dull-head
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 39 TALE NAME-The Dog and the Cook 
+ 
+
+
+The context is - 
+hey are not wise who give to themselves the credit due to
+others
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 92 TALE NAME-The Astronomer 
+ 
+
+
+The context is - 
+  One of them picked up an axe
+that lay upon the path, and said, "I have found an axe
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 12 TALE NAME-The Horse and the Stag 
+ 
+
+
+The context is - 
+e who shares the danger ought to share the prize
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 372 TALE NAME-The Seller of Images 
+ 
+
+
+The context is - 
+  When the Ass saw that the huge beast could be
+assailed with impunity, he let drive at his forehead with his
+heels
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 445 TALE NAME-The Lion and the Mouse 
+ 
+
+
+The context is - 
+  master:  my spirit was as good as
+ever, but I could not help my infirmities
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 474 TALE NAME-The Old Woman and the Physician 
+ 
+
+
+The context is - 
+  He thus answered the Bee:  "You shall
+have your request, but it will be at the peril of your own life
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 25 TALE NAME-The Manslayer 
+ 
+
+
+The context is - 
+vil wishes, like chickens, come home to roost
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 101 TALE NAME-The Boys and the Frogs 
+ 
+
+
+The context is - 
+ FARMER'S daughter was carrying her Pail of milk from the field
+to the farmhouse, when she fell a-musing
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 152 TALE NAME-The Bald Knight 
+ 
+
+
+The context is - 
+OME TRAVELERS, journeying along the seashore, climbed to the
+summit of a tall cliff, and looking over the sea, saw in the
+distance what they thought was a large ship
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 21 TALE NAME-The Sick Kite 
+ 
+
+
+The context is - 
+ur mere anticipations of life outrun its realities
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 625 TALE NAME-The Ass and the Charger 
+ 
+
+
+The context is - 
+  Do
+you not know that labor is the source of every blessing, and that
+none but those who work are entitled to eat
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 641 TALE NAME-The Traveler and His Dog 
+ 
+
+
+The context is - 
+  The quarrel
+proceeded from words to blows, and while the men fought, the Ass
+galloped off
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 42 TALE NAME-The Owl and the Birds 
+ 
+
+
+The context is - 
+n quarreling about the shadow we often lose the substance
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 560 TALE NAME-The Frogs Asking for a King 
+ 
+
+
+The context is - 
+  The Ass found that he had
+fallen into worse hands, and noting his master's occupation,
+said, groaning:  "It would have been better for me to have been
+either starved by the one, or to have been overworked by the
+other of my former masters, than to have been bought by my
+present owner, who will even after I am dead tan my hide, and
+make me useful to him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 58 TALE NAME-The Shepherd and the Wolf 
+ 
+
+
+The context is - 
+ VERY LARGE OAK was uprooted by the wind and thrown across a
+stream
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 515 TALE NAME-The Shepherd and the Sea 
+ 
+
+
+The context is - 
+"  The Fisherman replied, "I should indeed be a very
+simple fellow if, for the chance of a greater uncertain profit, I
+were to forego my present certain gain
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 138 TALE NAME-The Ant and the Dove 
+ 
+
+
+The context is - 
+ 
+He asked a man felling oaks in the forest if he had seen any
+marks of his footsteps or knew where his lair was
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 81 TALE NAME-The North Wind and the Sun 
+ 
+
+
+The context is - 
+  A Fox passing by asked him why he thus sharpened his
+teeth when there was no danger threatening from either huntsman
+or hound
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 294 TALE NAME-The Wasp and the Snake 
+ 
+
+
+The context is - 
+  On his departure the Farmer
+grievously lamented the destruction of his sheep and oxen, but
+his wife, who had been a spectator to all that took place, said,
+"On my word, you are rightly served, for how could you for a
+moment think of shutting up a Lion along with you in your
+farmyard when you know that you shake in your shoes if you only
+hear his roar at a distance
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 133 TALE NAME-The Ass in the Lion's Skin 
+ 
+
+
+The context is - 
+  For this purpose he assumed the character of a man and
+visited in this disguise a Sculptor's studio having looked at
+various statues, he demanded the price of two figures of Jupiter
+and Juno
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 127 TALE NAME-The Hare and the Tortoise 
+ 
+
+
+The context is - 
+  He
+fed the one for his table and kept the other for the sake of its
+song
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 503 TALE NAME-The Heifer and the Ox 
+ 
+
+
+The context is - 
+  On learning what had happened, he said to him,
+"Ah, you will have to remain there, my friend, until you become
+such as you were when you crept in, and then you will easily get
+out
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 488 TALE NAME-The Image of Mercury and the Carpenter 
+ 
+
+
+The context is - 
+  The huntsman took no notice of the signs, but believing
+his word, hastened forward in the chase
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 27 TALE NAME-The Brother and the Sister 
+ 
+
+
+The context is - 
+ BIRDCATCHER was about to sit down to a dinner of herbs when a
+friend unexpectedly came in
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 523 TALE NAME-The Flea and the Man 
+ 
+
+
+The context is - 
+  With his last breath he said to himself, "I am rightly
+served; for what business had I who had never handled a net to
+try and catch fish
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 64 TALE NAME-The Fox and the Crow 
+ 
+
+
+The context is - 
+ FLEA settled upon the bare foot of a Wrestler and bit him,
+causing the man to call loudly upon Hercules for help
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 174 TALE NAME-The Thief and His Mother 
+ 
+
+
+The context is - 
+  As they went along they chanced to pass a deep well, amply
+supplied with water, and when they saw it, one of the Frogs said
+to the other, "Let us descend and make our abode in this well:  it
+will furnish us with shelter and food
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 46 TALE NAME-The She-Goats and Their Beards 
+ 
+
+
+The context is - 
+o nothing without a regard to the consequences
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 179 TALE NAME-The Ants and the Grasshopper 
+ 
+
+
+The context is - 
+ 
+Fearing for their lives, the Mice kept themselves close in their
+holes
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 85 TALE NAME-The Stag at the Pool 
+ 
+
+
+The context is - 
+ LION and a Bear seized a Kid at the same moment, and fought
+fiercely for its possession
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 36 TALE NAME-The Wolf and the Horse 
+ 
+
+
+The context is - 
+t sometimes happens that one man has all the toil, and another
+all the profit
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 213 TALE NAME-The Wolf in Sheep's Clothing 
+ 
+
+
+The context is - 
+  "Woe is me," exclaimed the Doe, "who have escaped
+from man, only to throw myself into the mouth of a wild beast
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 29 TALE NAME-The Bald Man and the Fly 
+ 
+
+
+The context is - 
+n avoiding one evil, care must be taken not to fall into
+another
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 256 TALE NAME-The Trumpeter Taken Prisoner 
+ 
+
+
+The context is - 
+  The Fox by a strange fatality rushed to the fields
+of the Farmer who had captured him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 201 TALE NAME-The Eagle and the Arrow 
+ 
+
+
+The context is - 
+  A Kite saw him and
+exclaimed:  "You richly deserve your fate; for a bird of the air
+has no business to seek its food from the sea
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 46 TALE NAME-The Fox and the Grapes 
+ 
+
+
+The context is - 
+very man should be content to mind his own business
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 686 TALE NAME-The Peacock and Juno 
+ 
+
+
+The context is - 
+  Mercury
+presented himself, and striking the Philosopher with his wand,
+said, "And are you indeed to make yourself a judge of the
+dealings of Providence, who hast thyself in a similar manner
+treated these poor Ants
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 255 TALE NAME-The Geese and the Cranes 
+ 
+
+
+The context is - 
+  Though
+the Bull dug into the walls with his horns, he tired before he
+could rout out the Mouse, and crouching down, went to sleep
+outside the hole
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 17 TALE NAME-The Ass and the Old Shepherd 
+ 
+
+
+The context is - 
+ LION came across a Hare, who was fast asleep
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 446 TALE NAME-The Man and the Lion 
+ 
+
+
+The context is - 
+  Taking it up, the man returned
+to the same place, to find that the wall under which he had been
+sitting had fallen to pieces; and he marveled at the service
+rendered him by the Eagle
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 249 TALE NAME-The Kid and the Wolf 
+ 
+
+
+The context is - 
+  At last, being very angry, he took his
+image down from its pedestal and dashed it against the wall
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 63 TALE NAME-The Mules and the Robbers 
+ 
+
+
+The context is - 
+ BULL, escaping from a Lion, hid in a cave which some shepherds
+had recently occupied
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 22 TALE NAME-The Rich Man and the Tanner 
+ 
+
+
+The context is - 
+t shows an evil disposition to take advantage of a friend in
+distress
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 423 TALE NAME-The Lioness 
+ 
+
+
+The context is - 
+  The Monkeys at the sight of the nuts
+forgot their dancing and became (as indeed they were) Monkeys
+instead of actors
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 124 TALE NAME-The Horse and His Rider 
+ 
+
+
+The context is - 
+  The Leopard exhibited one by one the various spots
+which decorated his skin
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 377 TALE NAME-The Crow and Mercury 
+ 
+
+
+The context is - 
+  It happened once
+that the young one which was caressed and loved was smothered by
+the too great affection of the Mother, while the despised one was
+nurtured and reared in spite of the neglect to which it was
+exposed
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 34 TALE NAME-The Cat and the Birds 
+ 
+
+
+The context is - 
+he best intentions will not always ensure success
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 325 TALE NAME-The Fishermen 
+ 
+
+
+The context is - 
+"  Jupiter made
+answer:  "You have only to thank yourselves for the misfortunes to
+which you are exposed:  for if you did not make such excellent
+pillars and posts, and prove yourselves so serviceable to the
+carpenters and the farmers, the axe would not so frequently be
+laid to your roots
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 30 TALE NAME-The Cobbler Turned Doctor 
+ 
+
+
+The context is - 
+ HOUND started a Hare from his lair, but after a long run, gave
+up the chase
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 120 TALE NAME-The Flies and the Honey-Pot 
+ 
+
+
+The context is - 
+  Just as he was about
+to fall into the water, Dame Fortune, it is said, appeared to him
+and waking him from his slumber thus addressed him:  "Good Sir,
+pray wake up:  for if you fall into the well, the blame will be
+thrown on me, and I shall get an ill name among mortals; for I
+find that men are sure to impute their calamities to me, however
+much by their own folly they have really brought them on
+themselves
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 23 TALE NAME-The Boasting Traveler 
+ 
+
+
+The context is - 
+veryone is more or less master of his own fate
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 246 TALE NAME-The Ass and the Mule 
+ 
+
+
+The context is - 
+  He pulled up his horse, and with
+great glee joined in the joke by saying, "What a marvel it is
+that hairs which are not mine should fly from me, when they have
+forsaken even the man on whose head they grew
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 101 TALE NAME-The Playful Ass 
+ 
+
+
+The context is - 
+ SHEPHERD penning his sheep in the fold for the night was about
+to shut up a wolf with them, when his Dog perceiving the wolf
+said, "Master, how can you expect the sheep to be safe if you
+admit a wolf into the fold
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 278 TALE NAME-The Bat and the Weasels 
+ 
+
+
+The context is - 
+  Its owner lit
+it again, and said:  "Boast no more, but henceforth be content to
+give thy light in silence
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 602 TALE NAME-The Ass and His Masters 
+ 
+
+
+The context is - 
+  The
+Fox accumulated all that they had killed into one large heap and
+left to himself the smallest possible morsel
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 26 TALE NAME-The Crow and the Raven 
+ 
+
+
+The context is - 
+appy is the man who learns from the misfortunes of others
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 20 TALE NAME-The Ass and His Purchaser 
+ 
+
+
+The context is - 
+he Bull, the Lioness, and the Wild-Boar Hunter$
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 61 TALE NAME-The Sick Lion 
+ 
+
+
+The context is - 
+ BULL finding a lion's cub asleep gored him to death with his
+horns
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sigh
+Pattern occurs at following tale
+
+
+INDEX VALUE- 142 TALE NAME-The Fisherman and His Nets 
+ 
+
+
+The context is - 
+  The
+Oak said with a sigh, "I do not care about the blows of the axe
+aimed at my roots, but I do grieve at being torn in pieces by
+these wedges made from my own branches
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 35 TALE NAME-The Eagle and the Kite 
+ 
+
+
+The context is - 
+isfortunes springing from ourselves are the hardest to bear
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 139 TALE NAME-The Goat and the Ass 
+ 
+
+
+The context is - 
+  They supposed that the Hen must contain a great lump of
+gold in its inside, and in order to get the gold they killed it
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 71 TALE NAME-The Kid and the Wolf 
+ 
+
+
+The context is - 
+  As he
+was crossing through the water he lost his footing, stumbled and
+fell, and not being able to rise on account of his load, groaned
+heavily
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 41 TALE NAME-The Ass and His Driver 
+ 
+
+
+The context is - 
+en often bear little grievances with less courage than they do
+large misfortunes
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-The Ass and the Frogs 
+ 
+
+
+The context is - 
+ CROW was jealous of the Raven, because he was considered a bird
+of good omen and always attracted the attention of men, who noted
+by his flight the good or evil course of future events
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 38 TALE NAME-The Camel and Jupiter 
+ 
+
+
+The context is - 
+hose who assume a character which does not belong to them, only
+make themselves ridiculous
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 433 TALE NAME-The Boy Hunting Locusts 
+ 
+
+
+The context is - 
+  An old oak,
+lamenting when too late the destruction of his companions, said
+to a neighboring cedar, "The first step has lost us all
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 242 TALE NAME-The Walnut-Tree 
+ 
+
+
+The context is - 
+  Just as he was on the point of being eaten,
+the Crab said, "I well deserve my fate, for what business had I
+on the land, when by my nature and habits I am only adapted for
+the sea
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 26 TALE NAME-The Farmer and the Stork 
+ 
+
+
+The context is - 
+ontentment with our lot is an element of happiness
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 104 TALE NAME-The Kites and the Swans 
+ 
+
+
+The context is - 
+  She
+often pondered how she might obtain two eggs daily instead of
+one, and at last, to gain her purpose, determined to give the Hen
+a double allowance of barley
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 23 TALE NAME-The Old Woman and the Wine-Jar 
+ 
+
+
+The context is - 
+ SHEPHERD, watching his Ass feeding in a meadow, was alarmed all
+of a sudden by the cries of the enemy
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 77 TALE NAME-The Camel 
+ 
+
+
+The context is - 
+n a change of government the poor change nothing beyond the name
+of their master
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 231 TALE NAME-The Oxen and the Butchers 
+ 
+
+
+The context is - 
+  But having heard the neigh of the horse, they were so
+enchanted with the sound, that they tried to imitate it; and, in
+trying to neigh, they forgot how to sing
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 73 TALE NAME-The Wild Boar and the Fox 
+ 
+
+
+The context is - 
+he desire for imaginary benefits often involves the loss of
+present blessings
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 578 TALE NAME-The Thief and the Housedog 
+ 
+
+
+The context is - 
+"  The Dogs
+listened favorably to these proposals, and, entering the den of
+the Wolves, they were set upon and torn to pieces
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 61 TALE NAME-The Fox and the Monkey 
+ 
+
+
+The context is - 
+HE HARES waged war with the Eagles, and called upon the Foxes to
+help them
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 107 TALE NAME-The Hares and the Lions 
+ 
+
+
+The context is - 
+ VERY SKILLFUL BOWMAN went to the mountains in search of game,
+but all the beasts of the forest fled at his approach
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 17 TALE NAME-The Hunter and the Woodman 
+ 
+
+
+The context is - 
+e on guard against men who can strike from a distance
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 63 TALE NAME-The Swallow and the Crow 
+ 
+
+
+The context is - 
+HEN MAN first saw the Camel, he was so frightened at his vast
+size that he ran away
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 70 TALE NAME-The Dogs and the Hides 
+ 
+
+
+The context is - 
+ WASP seated himself upon the head of a Snake and, striking him
+unceasingly with his stings, wounded him to death
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 41 TALE NAME-The Dog and the Oyster 
+ 
+
+
+The context is - 
+ HOUND having started a Hare on the hillside pursued her for
+some distance, at one time biting her with his teeth as if he
+would take her life, and at another fawning upon her, as if in
+play with another dog
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 65 TALE NAME-The Ass, the Cock, and the Lion 
+ 
+
+
+The context is - 
+o one can be a friend if you know not whether to trust or
+distrust him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 31 TALE NAME-The Fox and the Goat 
+ 
+
+
+The context is - 
+ BULL was striving with all his might to squeeze himself through
+a narrow passage which led to his stall
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 178 TALE NAME-The Two Frogs 
+ 
+
+
+The context is - 
+  The Sheep, fearing some fraud
+was intended, excused herself, saying, "The Wolf is accustomed to
+seize what he wants and to run off; and you, too, can quickly
+outstrip me in your rapid flight
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 22 TALE NAME-The Ass Carrying the Image 
+ 
+
+
+The context is - 
+ PEACOCK spreading its gorgeous tail mocked a Crane that passed
+by, ridiculing the ashen hue of its plumage and saying, "I am
+robed, like a king, in gold and purple and all the colors of the
+rainbow; while you have not a bit of color on your wings
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 149 TALE NAME-The Hare and the Hound 
+ 
+
+
+The context is - 
+ FOX swimming across a rapid river was carried by the force of
+the current into a very deep ravine, where he lay for a long time
+very much bruised, sick, and unable to move
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 279 TALE NAME-The Lion in Love 
+ 
+
+
+The context is - 
+ 
+To carry out her design, she climbed to the nest of the Eagle,
+and said, "Destruction is preparing for you, and for me too,
+unfortunately
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 278 TALE NAME-The Goatherd and the Wild Goats 
+ 
+
+
+The context is - 
+  The Thief sat down beside him and talked with him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 147 TALE NAME-The Travelers and the Plane-Tree 
+ 
+
+
+The context is - 
+ MULE, frolicsome from lack of work and from too much corn,
+galloped about in a very extravagant manner, and said to himself:
+"My father surely was a high-mettled racer, and I am his own
+child in speed and spirit
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 159 TALE NAME-The Olive-Tree and the Fig-Tree 
+ 
+
+
+The context is - 
+  Supposing all danger to have passed,
+the Hart began to nibble the tendrils of the Vine
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 381 TALE NAME-Mercury and the Sculptor 
+ 
+
+
+The context is - 
+  The rustic, ignorant of his
+danger, was about to drink, when the Eagle struck his hand with
+his wing, and, seizing the drinking horn in his talons, carried
+it aloft
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 198 TALE NAME-The Fly and the Draught-Mule 
+ 
+
+
+The context is - 
+  When he reached it, he
+discovered to his grief that it contained so little water that he
+could not possibly get at it
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 236 TALE NAME-The Lion and the Bull 
+ 
+
+
+The context is - 
+  The Frog that lived in
+the pond warned his friend to change his residence and entreated
+him to come and live with him, saying that he would enjoy greater
+safety from danger and more abundant food
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 37 TALE NAME-The Boy and the Filberts 
+ 
+
+
+The context is - 
+ willful man will have his way to his own hurt
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 347 TALE NAME-The Fox and the Hedgehog 
+ 
+
+
+The context is - 
+"
+The Wolf, with a lack of sense proportioned to his enormous size,
+thought that they gave him this name in earnest, and, leaving his
+own race, consorted exclusively with the lions
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 34 TALE NAME-The Oaks and Jupiter 
+ 
+
+
+The context is - 
+ WALNUT TREE standing by the roadside bore an abundant crop of
+fruit
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 935 TALE NAME-The Partridge and the Fowler 
+ 
+
+
+The context is - 
+ that I, who can
+wage war successfully with the hugest beasts, should perish
+myself from this spider, the most inconsiderable of insects
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 509 TALE NAME-The Lamp 
+ 
+
+
+The context is - 
+  When the Dolphin arrived with his burden in sight of
+land not far from Athens, he asked the Monkey if he were an
+Athenian
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 185 TALE NAME-The Crab and Its Mother 
+ 
+
+
+The context is - 
+  The Doves, as long as he was
+silent, supposed him to be one of themselves and admitted him to
+their cote
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 133 TALE NAME-The Prophet 
+ 
+
+
+The context is - 
+  The Horse,
+desiring to revenge himself on the stranger, asked a man if he
+were willing to help him in punishing the Stag
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 394 TALE NAME-The Philosopher, the Ants, and Mercury 
+ 
+
+
+The context is - 
+"  The Wolf complied, and while he was piping
+and the Kid was dancing, some hounds hearing the sound ran up and
+began chasing the Wolf
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sigh
+Pattern occurs at following tale
+
+
+INDEX VALUE- 234 TALE NAME-The Dancing Monkeys 
+ 
+
+
+The context is - 
+  He sighed heavily and
+hastened away as fast as he could run
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 63 TALE NAME-The Man, the Horse, the Ox, and the Dog 
+ 
+
+
+The context is - 
+  As
+they journeyed, they passed through a cemetery full of monuments
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 316 TALE NAME-The Fox and the Crane 
+ 
+
+
+The context is - 
+  This sudden kindness at
+your hands will only make me more watchful, lest under these
+unexpected favors to myself, you have some private ends to
+accomplish for your own benefit, and for my master's injury
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 1137 TALE NAME-The Oxen and the Axle-Trees 
+ 
+
+
+The context is - 
+ 
+The end of life was reserved for the Dog, wherefore the old man
+is often snappish, irritable, hard to please, and selfish,
+tolerant only of his own household, but averse to strangers and
+to all who do not administer to his comfort or to his
+necessities
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 504 TALE NAME-Truth and the Traveler 
+ 
+
+
+The context is - 
+  After these preparations he
+signified that the two men should be brought before him, and
+greeted them with this salutation:  "What sort of a king do I seem
+to you to be, O strangers
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 454 TALE NAME-The Brazier and His Dog 
+ 
+
+
+The context is - 
+  But when the Wolf, day after day, kept
+in the company of the sheep and did not make the slightest effort
+to seize them, the Shepherd began to look upon him as a guardian
+of his flock rather than as a plotter of evil against it; and
+when occasion called him one day into the city, he left the sheep
+entirely in his charge
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 155 TALE NAME-The Hen and the Golden Eggs 
+ 
+
+
+The context is - 
+ are
+good; but they lack both claws and teeth such as we have
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 491 TALE NAME-The Fowler and the Viper 
+ 
+
+
+The context is - 
+  "There is no occasion to move
+yet, my son," she replied; "the man who only sends to his friends
+to help him with his harvest is not really in earnest
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 316 TALE NAME-The Peacock and the Crane 
+ 
+
+
+The context is - 
+  On seeing him the third time, he so increased in boldness
+that he went up to him and commenced a familiar conversation with
+him
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 281 TALE NAME-The Bull and the Goat 
+ 
+
+
+The context is - 
+  Another perished in a similar manner, and then a third,
+and still others after them
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 80 TALE NAME-The Farmer and His Sons 
+ 
+
+
+The context is - 
+  He
+called out to a passing traveler for help, but instead of holding
+out a helping hand, the man stood by unconcernedly, and scolded
+the boy for his imprudence
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 185 TALE NAME-The Hares and the Foxes 
+ 
+
+
+The context is - 
+  The Ass replied that passing
+through a hedge he had trod with his foot upon a sharp thorn
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 511 TALE NAME-The Piglet, the Sheep, and the Goat 
+ 
+
+
+The context is - 
+'  "Why," he replied, "I am
+in need of immediate help, and he is wont to give his good gifts
+very slowly
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 292 TALE NAME-The Farmer and the Cranes 
+ 
+
+
+The context is - 
+ 
+At last she turned away, hiding her disappointment and saying:
+"The Grapes are sour, and not ripe as I thought
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 403 TALE NAME-The Bitch and Her Whelps 
+ 
+
+
+The context is - 
+  After a short time she returned,
+and when he inquired how she had got on and how the servants had
+treated her, she replied, "The herdsmen and shepherds cast on me
+looks of aversion
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 516 TALE NAME-The Monkeys and Their Mother 
+ 
+
+
+The context is - 
+'   "The lot of each," replied Juno, "has been
+assigned by the will of the Fates--to thee, beauty; to the eagle, 
+strength; to the nightingale, song; to the raven, favorable, 
+and to the crow, unfavorable auguries
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 535 TALE NAME-The Salt Merchant and His Ass 
+ 
+
+
+The context is - 
+  The Hawk, interrupting
+him, said:  "I should indeed have lost my senses if I should let
+go food ready in my hand, for the sake of pursuing birds which
+are not yet even within sight
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 438 TALE NAME-The Aethiop 
+ 
+
+
+The context is - 
+  A
+Fox heard the sound, and wishing to make a breakfast on him, came
+and stood under the branches, saying how earnestly he desired to
+make the acquaintance of the owner of so magnificent a voice
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 223 TALE NAME-The Ass and the Grasshopper 
+ 
+
+
+The context is - 
+  He called to her and
+earnestly begged her to come lower down, lest she fall by some
+mishap; and he added that the meadows lay where he was standing,
+and that the herbage was most tender
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 555 TALE NAME-The Cat and the Mice 
+ 
+
+
+The context is - 
+  The Bull, on approaching the Lion's
+den, saw the huge spits and giant caldrons, and no sign whatever
+of the sheep, and, without saying a word, quietly took his
+departure
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 324 TALE NAME-The Town Mouse and the Country Mouse 
+ 
+
+
+The context is - 
+  The Ass
+listened to his words, and falling into a ditch, was very much
+bruised
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 750 TALE NAME-The Father and His Sons 
+ 
+
+
+The context is - 
+  The
+Country Mouse, being much delighted at the sight of such good
+cheer, expressed his satisfaction in warm terms and lamented his
+own hard fate
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 183 TALE NAME-The Ass and the Horse 
+ 
+
+
+The context is - 
+ 
+When each had fully stated his case the Ape announced this
+sentence:  "I do not think you, Wolf, ever lost what you claim;
+and I do believe you, Fox, to have stolen what you so stoutly
+deny
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 6 TALE NAME-The Hares and the Frogs 
+ 
+
+
+The context is - 
+he dishonest, if they act honestly, get no credit
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 51 TALE NAME-The Ass, the Fox, and the Lion 
+ 
+
+
+The context is - 
+ FLY sat on the axle-tree of a chariot, and addressing the
+Draught-Mule said, "How slow you are
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 548 TALE NAME-The Monkey and the Fishermen 
+ 
+
+
+The context is - 
+  One of their company,
+an old man, said, "Let us cease lamenting, my mates, for, as it
+seems to me, sorrow is always the twin sister of joy; and it was
+only to be looked for that we, who just now were over-rejoiced,
+should next have something to make us sad
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 112 TALE NAME-The Two Dogs 
+ 
+
+
+The context is - 
+  A Lion lay in
+ambush in the hope of making them his prey, but was afraid to
+attack them while they kept together
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 88 TALE NAME-The Cat and the Cock 
+ 
+
+
+The context is - 
+  Seeing a thrush sitting upon a tree, he wished to take
+it, and fitting his twigs to a proper length, watched intently,
+having his whole thoughts directed towards the sky
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 235 TALE NAME-The Wolf and the Lion 
+ 
+
+
+The context is - 
+"  The Ass held his peace, and made only a silent appeal to
+the justice of the gods
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 239 TALE NAME-The Buffoon and the Countryman 
+ 
+
+
+The context is - 
+ Yet it is of no value, as it entirely lacks brains
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 160 TALE NAME-The Monkey and the Camel 
+ 
+
+
+The context is - 
+  The Cranes, being
+light of wing, fled away at his approach; while the Geese, being
+slower of flight and heavier in their bodies, were captured
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 317 TALE NAME-The Wolf and the Sheep 
+ 
+
+
+The context is - 
+ 
+He felt it, and being in doubt, said:  "I do not quite know
+whether it is the cub of a Fox, or the whelp of a Wolf, but this
+I know full well
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 64 TALE NAME-The Mischievous Dog 
+ 
+
+
+The context is - 
+OME DOGS, finding the skin of a lion, began to tear it in pieces
+with their teeth
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 324 TALE NAME-The Milk-Woman and Her Pail 
+ 
+
+
+The context is - 
+  When the Cobbler happened to fall sick
+himself of a serious illness, the Governor of the town determined
+to test his skill
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 56 TALE NAME-The Horse and the Ass 
+ 
+
+
+The context is - 
+ WOLF coming out of a field of oats met a Horse and thus
+addressed him:  "I would advise you to go into that field
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - 
+Pattern occurs at following tale
+
+
+INDEX VALUE- 81 TALE NAME-The Wolf and the Goat 
+ 
+
+
+The context is - 
+
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 257 TALE NAME-The Mice and the Weasels 
+ 
+
+
+The context is - 
+  While
+they were playing one day as children, they happened by chance to
+look together into a mirror that was placed on their mother's
+chair
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 242 TALE NAME-The Hunter and the Horseman 
+ 
+
+
+The context is - 
+  The
+Partridges declared that they would dig around his vines and make
+them produce finer grapes
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 138 TALE NAME-The Two Bags 
+ 
+
+
+The context is - 
+  But when rescued
+from his danger, he forgot his promise
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sig
+Pattern occurs at following tale
+
+
+INDEX VALUE- 339 TALE NAME-The Dolphins, the Whales, and the Sprat 
+ 
+
+
+The context is - 
+  The North Wind
+first tried his power and blew with all his might, but the keener
+his blasts, the closer the Traveler wrapped his cloak around him,
+until at last, resigning all hope of victory, the Wind called
+upon the Sun to see what he could do
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 111 TALE NAME-The Ass and the Lapdog 
+ 
+
+
+The context is - 
+  Determined to keep as far apart as possible, the one
+seated himself in the stem, and the other in the prow of the
+ship
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 192 TALE NAME-The Spendthrift and the Swallow 
+ 
+
+
+The context is - 
+  When the Partridge was
+put into the poultry-yard, they struck at it and followed it
+about, so that the Partridge became grievously troubled and
+supposed that he was thus evilly treated because he was a
+stranger
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 120 TALE NAME-The Two Travelers and the Axe 
+ 
+
+
+The context is - 
+ FROG once upon a time came forth from his home in the marsh and
+proclaimed to all the beasts that he was a learned physician,
+skilled in the use of drugs and able to heal all diseases
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 643 TALE NAME-The Wolf, the Fox, and the Ape 
+ 
+
+
+The context is - 
+  The Lion
+roaring out in a rage against him, the Fox sought an opportunity
+to defend himself and said, "And who of all those who have come
+to you have benefited you so much as I, who have traveled from
+place to place in every direction, and have sought and learnt
+from the physicians the means of healing you
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 61 TALE NAME-The Stag, the Wolf, and the Sheep 
+ 
+
+
+The context is - 
+N THE WINTERTIME, a Dog curled up in as small a space as
+possible on account of the cold, determined to make himself a
+house
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 23 TALE NAME-The Rivers and the Sea 
+ 
+
+
+The context is - 
+OAMING BY the mountainside at sundown, a Wolf saw his own shadow
+become greatly extended and magnified, and he said to himself,
+"Why should I, being of such an immense size and extending nearly
+an acre in length, be afraid of the Lion
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 148 TALE NAME-The Swollen Fox 
+ 
+
+
+The context is - 
+  A Bat, fearing the uncertain issues of the fight,
+always fought on the side which he felt was the strongest
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 56 TALE NAME-The Charcoal-Burner and the Fuller 
+ 
+
+
+The context is - 
+ YOUNG MAN, a great spendthrift, had run through all his
+patrimony and had but one good cloak left
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 169 TALE NAME-The Woman and Her Hen 
+ 
+
+
+The context is - 
+  The Lion said to the Fox, "It is not thou
+who revilest me; but this mischance which has befallen me
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 703 TALE NAME-The Kingdom of the Lion 
+ 
+
+
+The context is - 
+ 
+The Birds gave no credence to these warning words, but considered
+the Owl to be beside herself and said that she was mad
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 197 TALE NAME-The Swan and the Goose 
+ 
+
+
+The context is - 
+  I have not slain
+a single man of your troop
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 291 TALE NAME-The Hart and the Vine 
+ 
+
+
+The context is - 
+  At last coming upon a Fox, he tried to
+frighten him also, but the Fox no sooner heard the sound of his
+voice than he exclaimed, "I might possibly have been frightened
+myself, if I had not heard your bray
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 442 TALE NAME-The Birds, the Beasts, and the Bat 
+ 
+
+
+The context is - 
+ you who so lately, when you supposed yourself
+safe, exulted over my calamity, have now reason to deplore a
+similar misfortune
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 403 TALE NAME-The Two Men Who Were Enemies 
+ 
+
+
+The context is - 
+"  "Woe's me
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 453 TALE NAME-The Lion and the Shepherd 
+ 
+
+
+The context is - 
+  They entreated Jupiter that they
+might no longer be associated with the Ills, as they had nothing
+in common and could not live together, but were engaged in
+unceasing warfare; and that an indissoluble law might be laid
+down for their future protection
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 27 TALE NAME-The Thief and the Innkeeper 
+ 
+
+
+The context is - 
+ DOVE shut up in a cage was boasting of the large number of
+young ones which she had hatched
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 31 TALE NAME-The Wolf and the Lion 
+ 
+
+
+The context is - 
+ WORKMAN, felling wood by the side of a river, let his axe drop
+- by accident into a deep pool
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 376 TALE NAME-The Trees and the Axe 
+ 
+
+
+The context is - 
+  He
+flew around with a great whir of his wings and settled upon a
+large ram, with the intention of carrying him off, but his claws
+became entangled in the ram's fleece and he was not able to
+release himself, although he fluttered with his feathers as much
+as he could
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 427 TALE NAME-The Lamb and the Wolf 
+ 
+
+
+The context is - 
+  The Crane, in his
+turn, asked the Fox to sup with him, and set before her a flagon
+with a long narrow mouth, so that he could easily insert his neck
+and enjoy its contents at his leisure
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 609 TALE NAME-The Laborer and the Snake 
+ 
+
+
+The context is - 
+  He then condemned the work of Jupiter, because
+he had not placed the heart of man on the outside, that everyone
+might read the thoughts of the evil disposed and take precautions
+against the intended mischief
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - sight
+Pattern occurs at following tale
+
+
+INDEX VALUE- 998 TALE NAME-Mercury and the Workmen 
+ 
+
+
+The context is - 
+  There, in the sight of the Eagle, the
+Fox gobbled them up
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 595 TALE NAME-The Lion and the Boar 
+ 
+
+
+The context is - 
+  "I
+can no longer consider you as a friend," said the Satyr, "a
+fellow who with the same breath blows hot and cold
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 566 TALE NAME-The Peasant and the Apple-Tree 
+ 
+
+
+The context is - 
+  On being asked how, in so short a time, he could have
+made a trial of him, he answered, "I do not need a trial; I know
+that he will be just the same as the one he chose for his
+companion
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 44 TALE NAME-The Birdcatcher, the Partridge, and the Cock 
+ 
+
+
+The context is - 
+VERY MAN, according to an ancient legend, is born into the world
+with two bags suspended from his neck   all bag in front full of
+his neighbors' faults, and a large bag behind filled with his own
+faults
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 450 TALE NAME-The Oak and the Woodcutters 
+ 
+
+
+The context is - 
+  The Stag immediately took to flight, and exerting his
+utmost speed, as long as the plain was smooth and open kept
+himself easily at a safe distance from the Lion
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - s
+Pattern occurs at following tale
+
+
+INDEX VALUE- 6 TALE NAME-The Lion, the Bear, and the Fox 
+ 
+
+
+The context is - 
+hat is most truly valuable is often underrated
+
+Finding first occurance of longest prefix of sight
+THE LONGEST PREFIX FOUND IS - si
+Pattern occurs at following tale
+
+
+INDEX VALUE- 263 TALE NAME-The Serpent and the Eagle 
+ 
+
+
+The context is - 
+  A Fox seeing him sitting so long
+and learning the reason of his doing so, said to him, "You are
+indeed, sir, sadly deceiving yourself; you are indulging a hope
+strong enough to cheat you, but which will never reward you with
+enjoyment
